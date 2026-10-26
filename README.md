@@ -1,13 +1,16 @@
 # turkiye-dis-ticaret-agi
 # Türkiye Merkezli Dış Ticaret Ağ Analizi
 
-Bu proje, Türkiye'nin en çok ticaret yaptığı ülkeler arasındaki ithalat/ihracat ilişkilerini ve ticaret ağının yapısını Sosyal Ağ Analizi (SNA) yöntemleriyle incelemektedir.
+Bu proje, Türkiye'nin ana ticaret ortakları arasındaki dış ticaret akışlarını Sosyal Ağ Analizi (SNA) yöntemleriyle incelemektedir.
 
-## Proje Amacı ve Kapsamı
-- **Merkeziyet Analizleri:** Degree, Betweenness ve Closeness centrality ölçümleri ile ticaret ağındaki kritik düğümlerin tespiti.
-- **Topluluk Tespiti (Community Detection):** Ticaret bloklarının ve bölgesel kümelenmelerin analizi.
-- **Görselleştirme:** Etkileşimli ağ grafiği (PyVis / D3.js).
+## 1. Toplanmış Veri ve Kenar Listesi (Edge List)
+Veri seti `kenar_listesi.csv` dosyasında yer almaktadır. Türkiye ve başlıca küresel ticaret ortaklarının yıllık ithalat/ihracat hacimlerini içermektedir.
 
-## Kullanılan Teknolojiler ve Veri Kaynağı
-- **Dil & Kütüphaneler:** Python, NetworkX, Pandas, PyVis
-- **Veri Kaynağı:** TÜİK & UN Comtrade Dış Ticaret Verileri
+## 2. Temel Ağ İstatistikleri (26 Ekim Ara Kontrol Metrikleri)
+- **Düğüm (Node) Sayısı:** 8 (Analize dahil edilen ülke sayısı)
+- **Kenar (Edge) Sayısı:** 12 (Ülkeler arası ticaret bağları)
+- **Ağ Yoğunluğu (Density):** 0.2143 (Olası tüm bağlantıların gerçekleşme oranı)
+- **Bileşen (Component) Sayısı:** 1 (Zayıf bağlı tek bir bütünleşik ticaret ağı)
+
+## 3. Kullanılan Teknolojiler
+- Python (Pandas, NetworkX, PyVis)
