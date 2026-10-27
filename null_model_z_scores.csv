@@ -1,0 +1,4 @@
+Metrik,Gerçek Ağ Değeri,Null Ortalama (μ),Null Standart Sapma (σ),Z-Skoru
+Kümelenme Katsayısı (Clustering),0.43293500738566054,0.3015,0.0169,7.7745
+Ortalama En Kısa Yol (Path Length),1.6365853658536584,1.7196,0.0107,-7.754
+Modülerlik (Modularity Q),0.13434381351421326,0.1798,0.0125,-3.6481

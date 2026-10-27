@@ -1,0 +1,1832 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Weight_USD_M" attr.type="double"/>
+<graph edgedefault="directed"><node id="Turkey"/>
+<node id="Germany"/>
+<node id="China"/>
+<node id="Russia"/>
+<node id="USA"/>
+<node id="Italy"/>
+<node id="UK"/>
+<node id="Iraq"/>
+<node id="France"/>
+<node id="Spain"/>
+<node id="UAE"/>
+<node id="Iran"/>
+<node id="Netherlands"/>
+<node id="Belgium"/>
+<node id="Poland"/>
+<node id="Romania"/>
+<node id="Egypt"/>
+<node id="Israel"/>
+<node id="Saudi Arabia"/>
+<node id="Switzerland"/>
+<node id="India"/>
+<node id="South Korea"/>
+<node id="Japan"/>
+<node id="Ukraine"/>
+<node id="Bulgaria"/>
+<node id="Greece"/>
+<node id="Azerbaijan"/>
+<node id="Turkmenistan"/>
+<node id="Kazakhstan"/>
+<node id="Uzbekistan"/>
+<node id="Georgia"/>
+<node id="Czechia"/>
+<node id="Hungary"/>
+<node id="Austria"/>
+<node id="Sweden"/>
+<node id="Algeria"/>
+<node id="Morocco"/>
+<node id="Qatar"/>
+<node id="Kuwait"/>
+<node id="Pakistan"/>
+<node id="Brazil"/>
+<edge source="Turkey" target="Germany">
+  <data key="d0">5553.17</data>
+</edge>
+<edge source="Turkey" target="China">
+  <data key="d0">21520.06</data>
+</edge>
+<edge source="Turkey" target="Russia">
+  <data key="d0">30651.37</data>
+</edge>
+<edge source="Turkey" target="USA">
+  <data key="d0">13511.67</data>
+</edge>
+<edge source="Turkey" target="Italy">
+  <data key="d0">17972.5</data>
+</edge>
+<edge source="Turkey" target="UK">
+  <data key="d0">21810.12</data>
+</edge>
+<edge source="Turkey" target="Iraq">
+  <data key="d0">14142.64</data>
+</edge>
+<edge source="Turkey" target="France">
+  <data key="d0">10093.29</data>
+</edge>
+<edge source="Turkey" target="Spain">
+  <data key="d0">9517.92</data>
+</edge>
+<edge source="Turkey" target="UAE">
+  <data key="d0">7600.49</data>
+</edge>
+<edge source="Turkey" target="Iran">
+  <data key="d0">12515.48</data>
+</edge>
+<edge source="Turkey" target="Netherlands">
+  <data key="d0">9953.91</data>
+</edge>
+<edge source="Turkey" target="Belgium">
+  <data key="d0">10649.97</data>
+</edge>
+<edge source="Turkey" target="Poland">
+  <data key="d0">19502.82</data>
+</edge>
+<edge source="Turkey" target="Romania">
+  <data key="d0">20249.61</data>
+</edge>
+<edge source="Turkey" target="Egypt">
+  <data key="d0">8996.92</data>
+</edge>
+<edge source="Turkey" target="Israel">
+  <data key="d0">4549.89</data>
+</edge>
+<edge source="Turkey" target="Saudi Arabia">
+  <data key="d0">1600.4</data>
+</edge>
+<edge source="Turkey" target="Switzerland">
+  <data key="d0">2942.13</data>
+</edge>
+<edge source="Turkey" target="India">
+  <data key="d0">9474.85</data>
+</edge>
+<edge source="Turkey" target="South Korea">
+  <data key="d0">11315.55</data>
+</edge>
+<edge source="Turkey" target="Japan">
+  <data key="d0">8428.68</data>
+</edge>
+<edge source="Turkey" target="Ukraine">
+  <data key="d0">17594.66</data>
+</edge>
+<edge source="Turkey" target="Bulgaria">
+  <data key="d0">19576.39</data>
+</edge>
+<edge source="Turkey" target="Greece">
+  <data key="d0">19994.2</data>
+</edge>
+<edge source="Turkey" target="Azerbaijan">
+  <data key="d0">7983.78</data>
+</edge>
+<edge source="Turkey" target="Turkmenistan">
+  <data key="d0">6642.72</data>
+</edge>
+<edge source="Turkey" target="Kazakhstan">
+  <data key="d0">6690.71</data>
+</edge>
+<edge source="Turkey" target="Uzbekistan">
+  <data key="d0">6893.15</data>
+</edge>
+<edge source="Turkey" target="Georgia">
+  <data key="d0">4512.89</data>
+</edge>
+<edge source="Turkey" target="Czechia">
+  <data key="d0">19774.83</data>
+</edge>
+<edge source="Turkey" target="Hungary">
+  <data key="d0">4158.5</data>
+</edge>
+<edge source="Turkey" target="Austria">
+  <data key="d0">19678.68</data>
+</edge>
+<edge source="Turkey" target="Sweden">
+  <data key="d0">17719.28</data>
+</edge>
+<edge source="Turkey" target="Algeria">
+  <data key="d0">10132.34</data>
+</edge>
+<edge source="Turkey" target="Morocco">
+  <data key="d0">18742.01</data>
+</edge>
+<edge source="Turkey" target="Qatar">
+  <data key="d0">4605.14</data>
+</edge>
+<edge source="Turkey" target="Kuwait">
+  <data key="d0">17459.06</data>
+</edge>
+<edge source="Turkey" target="Pakistan">
+  <data key="d0">8714.85</data>
+</edge>
+<edge source="Turkey" target="Brazil">
+  <data key="d0">7091.42</data>
+</edge>
+<edge source="Germany" target="Turkey">
+  <data key="d0">8055.87</data>
+</edge>
+<edge source="Germany" target="China">
+  <data key="d0">4296.66</data>
+</edge>
+<edge source="Germany" target="Italy">
+  <data key="d0">7124.27</data>
+</edge>
+<edge source="Germany" target="Iraq">
+  <data key="d0">5235.88</data>
+</edge>
+<edge source="Germany" target="Belgium">
+  <data key="d0">9500.87</data>
+</edge>
+<edge source="Germany" target="Egypt">
+  <data key="d0">2649.36</data>
+</edge>
+<edge source="Germany" target="Israel">
+  <data key="d0">3403.29</data>
+</edge>
+<edge source="Germany" target="South Korea">
+  <data key="d0">3497.91</data>
+</edge>
+<edge source="Germany" target="Japan">
+  <data key="d0">3752.92</data>
+</edge>
+<edge source="Germany" target="Ukraine">
+  <data key="d0">4592.45</data>
+</edge>
+<edge source="Germany" target="Bulgaria">
+  <data key="d0">8321.84</data>
+</edge>
+<edge source="Germany" target="Kazakhstan">
+  <data key="d0">493.66</data>
+</edge>
+<edge source="Germany" target="Sweden">
+  <data key="d0">2606.43</data>
+</edge>
+<edge source="Germany" target="Algeria">
+  <data key="d0">1789.52</data>
+</edge>
+<edge source="Germany" target="Morocco">
+  <data key="d0">617.21</data>
+</edge>
+<edge source="Germany" target="Pakistan">
+  <data key="d0">5778.12</data>
+</edge>
+<edge source="China" target="Turkey">
+  <data key="d0">41712.9</data>
+</edge>
+<edge source="China" target="Germany">
+  <data key="d0">8162.81</data>
+</edge>
+<edge source="China" target="Iraq">
+  <data key="d0">5544.57</data>
+</edge>
+<edge source="China" target="France">
+  <data key="d0">5606.61</data>
+</edge>
+<edge source="China" target="Romania">
+  <data key="d0">7672.59</data>
+</edge>
+<edge source="China" target="Saudi Arabia">
+  <data key="d0">3671.1</data>
+</edge>
+<edge source="China" target="Switzerland">
+  <data key="d0">4609.35</data>
+</edge>
+<edge source="China" target="India">
+  <data key="d0">8961.11</data>
+</edge>
+<edge source="China" target="Japan">
+  <data key="d0">6298.87</data>
+</edge>
+<edge source="China" target="Ukraine">
+  <data key="d0">8289.65</data>
+</edge>
+<edge source="China" target="Uzbekistan">
+  <data key="d0">7750.34</data>
+</edge>
+<edge source="China" target="Sweden">
+  <data key="d0">8489.51</data>
+</edge>
+<edge source="China" target="Pakistan">
+  <data key="d0">3324.17</data>
+</edge>
+<edge source="Russia" target="Turkey">
+  <data key="d0">24580.48</data>
+</edge>
+<edge source="Russia" target="Iran">
+  <data key="d0">6136.18</data>
+</edge>
+<edge source="Russia" target="Belgium">
+  <data key="d0">7497.49</data>
+</edge>
+<edge source="Russia" target="Romania">
+  <data key="d0">4768.17</data>
+</edge>
+<edge source="Russia" target="Egypt">
+  <data key="d0">2954.63</data>
+</edge>
+<edge source="Russia" target="South Korea">
+  <data key="d0">7708.44</data>
+</edge>
+<edge source="Russia" target="Japan">
+  <data key="d0">2908.06</data>
+</edge>
+<edge source="Russia" target="Ukraine">
+  <data key="d0">2485.47</data>
+</edge>
+<edge source="Russia" target="Turkmenistan">
+  <data key="d0">7435.07</data>
+</edge>
+<edge source="Russia" target="Kazakhstan">
+  <data key="d0">1549.93</data>
+</edge>
+<edge source="Russia" target="Czechia">
+  <data key="d0">8430.21</data>
+</edge>
+<edge source="Russia" target="Hungary">
+  <data key="d0">8107.71</data>
+</edge>
+<edge source="Russia" target="Morocco">
+  <data key="d0">3647.02</data>
+</edge>
+<edge source="Russia" target="Kuwait">
+  <data key="d0">5087.21</data>
+</edge>
+<edge source="Russia" target="Pakistan">
+  <data key="d0">2610.66</data>
+</edge>
+<edge source="USA" target="Turkey">
+  <data key="d0">3998.21</data>
+</edge>
+<edge source="USA" target="UK">
+  <data key="d0">7301.92</data>
+</edge>
+<edge source="USA" target="France">
+  <data key="d0">828.63</data>
+</edge>
+<edge source="USA" target="Spain">
+  <data key="d0">3905.06</data>
+</edge>
+<edge source="USA" target="UAE">
+  <data key="d0">5732.94</data>
+</edge>
+<edge source="USA" target="Iran">
+  <data key="d0">4432.76</data>
+</edge>
+<edge source="USA" target="Romania">
+  <data key="d0">9286.34</data>
+</edge>
+<edge source="USA" target="Israel">
+  <data key="d0">3984.9</data>
+</edge>
+<edge source="USA" target="Saudi Arabia">
+  <data key="d0">9452.39</data>
+</edge>
+<edge source="USA" target="Switzerland">
+  <data key="d0">3697.38</data>
+</edge>
+<edge source="USA" target="India">
+  <data key="d0">8419.83</data>
+</edge>
+<edge source="USA" target="Japan">
+  <data key="d0">9324.68</data>
+</edge>
+<edge source="USA" target="Turkmenistan">
+  <data key="d0">417.19</data>
+</edge>
+<edge source="USA" target="Kazakhstan">
+  <data key="d0">1460.44</data>
+</edge>
+<edge source="USA" target="Uzbekistan">
+  <data key="d0">214.04</data>
+</edge>
+<edge source="USA" target="Sweden">
+  <data key="d0">5629.32</data>
+</edge>
+<edge source="USA" target="Qatar">
+  <data key="d0">8734.26</data>
+</edge>
+<edge source="Italy" target="Turkey">
+  <data key="d0">7183.52</data>
+</edge>
+<edge source="Italy" target="Germany">
+  <data key="d0">9491.12</data>
+</edge>
+<edge source="Italy" target="Iraq">
+  <data key="d0">3951.64</data>
+</edge>
+<edge source="Italy" target="France">
+  <data key="d0">683.51</data>
+</edge>
+<edge source="Italy" target="Belgium">
+  <data key="d0">2360.64</data>
+</edge>
+<edge source="Italy" target="Romania">
+  <data key="d0">6753.23</data>
+</edge>
+<edge source="Italy" target="Saudi Arabia">
+  <data key="d0">9367.15</data>
+</edge>
+<edge source="Italy" target="Switzerland">
+  <data key="d0">1213.31</data>
+</edge>
+<edge source="Italy" target="India">
+  <data key="d0">8046.17</data>
+</edge>
+<edge source="Italy" target="Ukraine">
+  <data key="d0">2145.42</data>
+</edge>
+<edge source="Italy" target="Hungary">
+  <data key="d0">5372.41</data>
+</edge>
+<edge source="Italy" target="Sweden">
+  <data key="d0">2420.9</data>
+</edge>
+<edge source="Italy" target="Algeria">
+  <data key="d0">5494.1</data>
+</edge>
+<edge source="UK" target="Turkey">
+  <data key="d0">15876.33</data>
+</edge>
+<edge source="UK" target="USA">
+  <data key="d0">5364.07</data>
+</edge>
+<edge source="UK" target="UAE">
+  <data key="d0">4106.53</data>
+</edge>
+<edge source="UK" target="Netherlands">
+  <data key="d0">9313.0</data>
+</edge>
+<edge source="UK" target="Poland">
+  <data key="d0">7613.79</data>
+</edge>
+<edge source="UK" target="Israel">
+  <data key="d0">5658.96</data>
+</edge>
+<edge source="UK" target="Saudi Arabia">
+  <data key="d0">2287.51</data>
+</edge>
+<edge source="UK" target="Japan">
+  <data key="d0">3581.41</data>
+</edge>
+<edge source="UK" target="Greece">
+  <data key="d0">1433.27</data>
+</edge>
+<edge source="UK" target="Azerbaijan">
+  <data key="d0">9216.66</data>
+</edge>
+<edge source="UK" target="Kazakhstan">
+  <data key="d0">5763.6</data>
+</edge>
+<edge source="UK" target="Uzbekistan">
+  <data key="d0">4027.76</data>
+</edge>
+<edge source="UK" target="Sweden">
+  <data key="d0">3894.35</data>
+</edge>
+<edge source="UK" target="Algeria">
+  <data key="d0">3173.04</data>
+</edge>
+<edge source="UK" target="Morocco">
+  <data key="d0">1079.1</data>
+</edge>
+<edge source="UK" target="Qatar">
+  <data key="d0">6910.22</data>
+</edge>
+<edge source="Iraq" target="Turkey">
+  <data key="d0">3257.52</data>
+</edge>
+<edge source="Iraq" target="Germany">
+  <data key="d0">3942.96</data>
+</edge>
+<edge source="Iraq" target="China">
+  <data key="d0">3320.44</data>
+</edge>
+<edge source="Iraq" target="Italy">
+  <data key="d0">7894.94</data>
+</edge>
+<edge source="Iraq" target="Switzerland">
+  <data key="d0">4989.7</data>
+</edge>
+<edge source="Iraq" target="South Korea">
+  <data key="d0">4409.97</data>
+</edge>
+<edge source="Iraq" target="Japan">
+  <data key="d0">3789.2</data>
+</edge>
+<edge source="Iraq" target="Turkmenistan">
+  <data key="d0">2955.33</data>
+</edge>
+<edge source="Iraq" target="Uzbekistan">
+  <data key="d0">1142.45</data>
+</edge>
+<edge source="Iraq" target="Georgia">
+  <data key="d0">7993.0</data>
+</edge>
+<edge source="Iraq" target="Czechia">
+  <data key="d0">812.46</data>
+</edge>
+<edge source="Iraq" target="Austria">
+  <data key="d0">468.69</data>
+</edge>
+<edge source="Iraq" target="Algeria">
+  <data key="d0">5622.32</data>
+</edge>
+<edge source="Iraq" target="Morocco">
+  <data key="d0">7795.56</data>
+</edge>
+<edge source="France" target="Turkey">
+  <data key="d0">24554.08</data>
+</edge>
+<edge source="France" target="China">
+  <data key="d0">1642.85</data>
+</edge>
+<edge source="France" target="USA">
+  <data key="d0">8973.11</data>
+</edge>
+<edge source="France" target="Italy">
+  <data key="d0">3323.1</data>
+</edge>
+<edge source="France" target="Spain">
+  <data key="d0">1301.36</data>
+</edge>
+<edge source="France" target="Belgium">
+  <data key="d0">6395.0</data>
+</edge>
+<edge source="France" target="India">
+  <data key="d0">8199.01</data>
+</edge>
+<edge source="France" target="Bulgaria">
+  <data key="d0">4232.72</data>
+</edge>
+<edge source="France" target="Azerbaijan">
+  <data key="d0">1497.94</data>
+</edge>
+<edge source="France" target="Turkmenistan">
+  <data key="d0">8927.99</data>
+</edge>
+<edge source="France" target="Czechia">
+  <data key="d0">5740.45</data>
+</edge>
+<edge source="France" target="Sweden">
+  <data key="d0">9021.5</data>
+</edge>
+<edge source="France" target="Morocco">
+  <data key="d0">4744.58</data>
+</edge>
+<edge source="France" target="Brazil">
+  <data key="d0">6293.25</data>
+</edge>
+<edge source="Spain" target="Turkey">
+  <data key="d0">21042.49</data>
+</edge>
+<edge source="Spain" target="USA">
+  <data key="d0">4234.4</data>
+</edge>
+<edge source="Spain" target="France">
+  <data key="d0">6528.04</data>
+</edge>
+<edge source="Spain" target="UAE">
+  <data key="d0">1301.86</data>
+</edge>
+<edge source="Spain" target="Iran">
+  <data key="d0">2476.0</data>
+</edge>
+<edge source="Spain" target="Belgium">
+  <data key="d0">8102.12</data>
+</edge>
+<edge source="Spain" target="Poland">
+  <data key="d0">4636.32</data>
+</edge>
+<edge source="Spain" target="Egypt">
+  <data key="d0">5121.3</data>
+</edge>
+<edge source="Spain" target="India">
+  <data key="d0">1350.5</data>
+</edge>
+<edge source="Spain" target="South Korea">
+  <data key="d0">131.68</data>
+</edge>
+<edge source="Spain" target="Japan">
+  <data key="d0">8420.77</data>
+</edge>
+<edge source="Spain" target="Uzbekistan">
+  <data key="d0">2094.16</data>
+</edge>
+<edge source="Spain" target="Sweden">
+  <data key="d0">6863.63</data>
+</edge>
+<edge source="Spain" target="Algeria">
+  <data key="d0">7987.47</data>
+</edge>
+<edge source="Spain" target="Morocco">
+  <data key="d0">7275.45</data>
+</edge>
+<edge source="UAE" target="Turkey">
+  <data key="d0">24507.6</data>
+</edge>
+<edge source="UAE" target="USA">
+  <data key="d0">2592.63</data>
+</edge>
+<edge source="UAE" target="UK">
+  <data key="d0">6451.66</data>
+</edge>
+<edge source="UAE" target="Spain">
+  <data key="d0">5451.91</data>
+</edge>
+<edge source="UAE" target="Iran">
+  <data key="d0">388.51</data>
+</edge>
+<edge source="UAE" target="Netherlands">
+  <data key="d0">1334.88</data>
+</edge>
+<edge source="UAE" target="Belgium">
+  <data key="d0">147.11</data>
+</edge>
+<edge source="UAE" target="Israel">
+  <data key="d0">3676.2</data>
+</edge>
+<edge source="UAE" target="Saudi Arabia">
+  <data key="d0">811.61</data>
+</edge>
+<edge source="UAE" target="India">
+  <data key="d0">7046.66</data>
+</edge>
+<edge source="UAE" target="South Korea">
+  <data key="d0">4167.9</data>
+</edge>
+<edge source="UAE" target="Bulgaria">
+  <data key="d0">126.86</data>
+</edge>
+<edge source="UAE" target="Greece">
+  <data key="d0">6903.49</data>
+</edge>
+<edge source="UAE" target="Turkmenistan">
+  <data key="d0">7166.13</data>
+</edge>
+<edge source="UAE" target="Uzbekistan">
+  <data key="d0">2120.3</data>
+</edge>
+<edge source="UAE" target="Hungary">
+  <data key="d0">5193.95</data>
+</edge>
+<edge source="UAE" target="Sweden">
+  <data key="d0">6671.15</data>
+</edge>
+<edge source="UAE" target="Brazil">
+  <data key="d0">4741.37</data>
+</edge>
+<edge source="Iran" target="Turkey">
+  <data key="d0">6148.81</data>
+</edge>
+<edge source="Iran" target="Russia">
+  <data key="d0">808.04</data>
+</edge>
+<edge source="Iran" target="USA">
+  <data key="d0">5143.41</data>
+</edge>
+<edge source="Iran" target="Spain">
+  <data key="d0">8321.38</data>
+</edge>
+<edge source="Iran" target="UAE">
+  <data key="d0">462.63</data>
+</edge>
+<edge source="Iran" target="Netherlands">
+  <data key="d0">1657.42</data>
+</edge>
+<edge source="Iran" target="Belgium">
+  <data key="d0">1481.11</data>
+</edge>
+<edge source="Iran" target="Poland">
+  <data key="d0">8766.4</data>
+</edge>
+<edge source="Iran" target="Egypt">
+  <data key="d0">593.36</data>
+</edge>
+<edge source="Iran" target="Switzerland">
+  <data key="d0">197.28</data>
+</edge>
+<edge source="Iran" target="Greece">
+  <data key="d0">3519.45</data>
+</edge>
+<edge source="Iran" target="Azerbaijan">
+  <data key="d0">6229.97</data>
+</edge>
+<edge source="Iran" target="Morocco">
+  <data key="d0">4067.32</data>
+</edge>
+<edge source="Iran" target="Brazil">
+  <data key="d0">577.2</data>
+</edge>
+<edge source="Netherlands" target="Turkey">
+  <data key="d0">21344.46</data>
+</edge>
+<edge source="Netherlands" target="UK">
+  <data key="d0">2488.09</data>
+</edge>
+<edge source="Netherlands" target="UAE">
+  <data key="d0">8838.32</data>
+</edge>
+<edge source="Netherlands" target="Iran">
+  <data key="d0">7572.85</data>
+</edge>
+<edge source="Netherlands" target="Romania">
+  <data key="d0">9388.62</data>
+</edge>
+<edge source="Netherlands" target="South Korea">
+  <data key="d0">5310.27</data>
+</edge>
+<edge source="Netherlands" target="Bulgaria">
+  <data key="d0">6416.58</data>
+</edge>
+<edge source="Netherlands" target="Azerbaijan">
+  <data key="d0">9459.19</data>
+</edge>
+<edge source="Netherlands" target="Uzbekistan">
+  <data key="d0">7579.97</data>
+</edge>
+<edge source="Netherlands" target="Georgia">
+  <data key="d0">427.98</data>
+</edge>
+<edge source="Netherlands" target="Austria">
+  <data key="d0">8877.38</data>
+</edge>
+<edge source="Netherlands" target="Qatar">
+  <data key="d0">6853.35</data>
+</edge>
+<edge source="Netherlands" target="Brazil">
+  <data key="d0">2843.58</data>
+</edge>
+<edge source="Belgium" target="Turkey">
+  <data key="d0">8575.08</data>
+</edge>
+<edge source="Belgium" target="Germany">
+  <data key="d0">9168.32</data>
+</edge>
+<edge source="Belgium" target="Russia">
+  <data key="d0">4408.37</data>
+</edge>
+<edge source="Belgium" target="Italy">
+  <data key="d0">6636.93</data>
+</edge>
+<edge source="Belgium" target="France">
+  <data key="d0">6778.38</data>
+</edge>
+<edge source="Belgium" target="Spain">
+  <data key="d0">2219.66</data>
+</edge>
+<edge source="Belgium" target="UAE">
+  <data key="d0">5292.34</data>
+</edge>
+<edge source="Belgium" target="Iran">
+  <data key="d0">4192.37</data>
+</edge>
+<edge source="Belgium" target="Romania">
+  <data key="d0">7026.88</data>
+</edge>
+<edge source="Belgium" target="Egypt">
+  <data key="d0">5164.87</data>
+</edge>
+<edge source="Belgium" target="Switzerland">
+  <data key="d0">5843.62</data>
+</edge>
+<edge source="Belgium" target="Azerbaijan">
+  <data key="d0">1682.38</data>
+</edge>
+<edge source="Belgium" target="Czechia">
+  <data key="d0">2985.88</data>
+</edge>
+<edge source="Belgium" target="Hungary">
+  <data key="d0">593.37</data>
+</edge>
+<edge source="Belgium" target="Austria">
+  <data key="d0">7208.55</data>
+</edge>
+<edge source="Belgium" target="Morocco">
+  <data key="d0">8376.67</data>
+</edge>
+<edge source="Belgium" target="Pakistan">
+  <data key="d0">1707.68</data>
+</edge>
+<edge source="Belgium" target="Brazil">
+  <data key="d0">1258.5</data>
+</edge>
+<edge source="Poland" target="Turkey">
+  <data key="d0">10216.62</data>
+</edge>
+<edge source="Poland" target="UK">
+  <data key="d0">1952.12</data>
+</edge>
+<edge source="Poland" target="Spain">
+  <data key="d0">5697.32</data>
+</edge>
+<edge source="Poland" target="Iran">
+  <data key="d0">2446.75</data>
+</edge>
+<edge source="Poland" target="Saudi Arabia">
+  <data key="d0">8022.91</data>
+</edge>
+<edge source="Poland" target="Switzerland">
+  <data key="d0">3560.36</data>
+</edge>
+<edge source="Poland" target="Bulgaria">
+  <data key="d0">4543.19</data>
+</edge>
+<edge source="Poland" target="Greece">
+  <data key="d0">4694.97</data>
+</edge>
+<edge source="Poland" target="Uzbekistan">
+  <data key="d0">2907.38</data>
+</edge>
+<edge source="Poland" target="Kuwait">
+  <data key="d0">8710.3</data>
+</edge>
+<edge source="Poland" target="Pakistan">
+  <data key="d0">7996.72</data>
+</edge>
+<edge source="Romania" target="Turkey">
+  <data key="d0">22753.83</data>
+</edge>
+<edge source="Romania" target="China">
+  <data key="d0">5170.91</data>
+</edge>
+<edge source="Romania" target="Russia">
+  <data key="d0">6454.49</data>
+</edge>
+<edge source="Romania" target="USA">
+  <data key="d0">8564.11</data>
+</edge>
+<edge source="Romania" target="Italy">
+  <data key="d0">6130.43</data>
+</edge>
+<edge source="Romania" target="Netherlands">
+  <data key="d0">6476.46</data>
+</edge>
+<edge source="Romania" target="Belgium">
+  <data key="d0">7367.08</data>
+</edge>
+<edge source="Romania" target="Egypt">
+  <data key="d0">5866.42</data>
+</edge>
+<edge source="Romania" target="India">
+  <data key="d0">4041.13</data>
+</edge>
+<edge source="Romania" target="Ukraine">
+  <data key="d0">3122.41</data>
+</edge>
+<edge source="Romania" target="Uzbekistan">
+  <data key="d0">3719.01</data>
+</edge>
+<edge source="Romania" target="Qatar">
+  <data key="d0">8149.41</data>
+</edge>
+<edge source="Romania" target="Kuwait">
+  <data key="d0">4216.85</data>
+</edge>
+<edge source="Egypt" target="Turkey">
+  <data key="d0">5478.14</data>
+</edge>
+<edge source="Egypt" target="Germany">
+  <data key="d0">4289.71</data>
+</edge>
+<edge source="Egypt" target="Russia">
+  <data key="d0">3698.33</data>
+</edge>
+<edge source="Egypt" target="Spain">
+  <data key="d0">811.59</data>
+</edge>
+<edge source="Egypt" target="Iran">
+  <data key="d0">1370.7</data>
+</edge>
+<edge source="Egypt" target="Belgium">
+  <data key="d0">4039.36</data>
+</edge>
+<edge source="Egypt" target="Romania">
+  <data key="d0">3484.06</data>
+</edge>
+<edge source="Egypt" target="Switzerland">
+  <data key="d0">5636.11</data>
+</edge>
+<edge source="Egypt" target="Greece">
+  <data key="d0">2257.8</data>
+</edge>
+<edge source="Egypt" target="Azerbaijan">
+  <data key="d0">8698.98</data>
+</edge>
+<edge source="Egypt" target="Turkmenistan">
+  <data key="d0">656.27</data>
+</edge>
+<edge source="Egypt" target="Uzbekistan">
+  <data key="d0">4495.42</data>
+</edge>
+<edge source="Egypt" target="Morocco">
+  <data key="d0">6130.16</data>
+</edge>
+<edge source="Israel" target="Turkey">
+  <data key="d0">1662.87</data>
+</edge>
+<edge source="Israel" target="Germany">
+  <data key="d0">2453.18</data>
+</edge>
+<edge source="Israel" target="USA">
+  <data key="d0">5672.63</data>
+</edge>
+<edge source="Israel" target="UK">
+  <data key="d0">9339.63</data>
+</edge>
+<edge source="Israel" target="UAE">
+  <data key="d0">6551.32</data>
+</edge>
+<edge source="Israel" target="Bulgaria">
+  <data key="d0">5959.35</data>
+</edge>
+<edge source="Israel" target="Azerbaijan">
+  <data key="d0">2720.45</data>
+</edge>
+<edge source="Israel" target="Turkmenistan">
+  <data key="d0">9404.27</data>
+</edge>
+<edge source="Israel" target="Uzbekistan">
+  <data key="d0">3725.05</data>
+</edge>
+<edge source="Israel" target="Algeria">
+  <data key="d0">8298.1</data>
+</edge>
+<edge source="Israel" target="Pakistan">
+  <data key="d0">3864.21</data>
+</edge>
+<edge source="Saudi Arabia" target="Turkey">
+  <data key="d0">9668.35</data>
+</edge>
+<edge source="Saudi Arabia" target="China">
+  <data key="d0">2729.13</data>
+</edge>
+<edge source="Saudi Arabia" target="USA">
+  <data key="d0">3034.88</data>
+</edge>
+<edge source="Saudi Arabia" target="Italy">
+  <data key="d0">1545.25</data>
+</edge>
+<edge source="Saudi Arabia" target="UK">
+  <data key="d0">4500.56</data>
+</edge>
+<edge source="Saudi Arabia" target="UAE">
+  <data key="d0">7299.45</data>
+</edge>
+<edge source="Saudi Arabia" target="Poland">
+  <data key="d0">6668.08</data>
+</edge>
+<edge source="Saudi Arabia" target="South Korea">
+  <data key="d0">2387.22</data>
+</edge>
+<edge source="Saudi Arabia" target="Japan">
+  <data key="d0">6727.37</data>
+</edge>
+<edge source="Saudi Arabia" target="Bulgaria">
+  <data key="d0">6140.72</data>
+</edge>
+<edge source="Saudi Arabia" target="Azerbaijan">
+  <data key="d0">8129.42</data>
+</edge>
+<edge source="Saudi Arabia" target="Georgia">
+  <data key="d0">5781.53</data>
+</edge>
+<edge source="Saudi Arabia" target="Hungary">
+  <data key="d0">9392.48</data>
+</edge>
+<edge source="Saudi Arabia" target="Sweden">
+  <data key="d0">6580.58</data>
+</edge>
+<edge source="Saudi Arabia" target="Qatar">
+  <data key="d0">9129.59</data>
+</edge>
+<edge source="Saudi Arabia" target="Brazil">
+  <data key="d0">697.58</data>
+</edge>
+<edge source="Switzerland" target="Turkey">
+  <data key="d0">15251.77</data>
+</edge>
+<edge source="Switzerland" target="China">
+  <data key="d0">6898.12</data>
+</edge>
+<edge source="Switzerland" target="USA">
+  <data key="d0">194.17</data>
+</edge>
+<edge source="Switzerland" target="Italy">
+  <data key="d0">6334.02</data>
+</edge>
+<edge source="Switzerland" target="Iraq">
+  <data key="d0">5659.14</data>
+</edge>
+<edge source="Switzerland" target="Iran">
+  <data key="d0">1877.82</data>
+</edge>
+<edge source="Switzerland" target="Belgium">
+  <data key="d0">5567.93</data>
+</edge>
+<edge source="Switzerland" target="Poland">
+  <data key="d0">3578.14</data>
+</edge>
+<edge source="Switzerland" target="Egypt">
+  <data key="d0">1358.24</data>
+</edge>
+<edge source="Switzerland" target="Turkmenistan">
+  <data key="d0">7838.24</data>
+</edge>
+<edge source="Switzerland" target="Hungary">
+  <data key="d0">8993.38</data>
+</edge>
+<edge source="Switzerland" target="Austria">
+  <data key="d0">6300.37</data>
+</edge>
+<edge source="India" target="Turkey">
+  <data key="d0">2918.3</data>
+</edge>
+<edge source="India" target="China">
+  <data key="d0">6089.42</data>
+</edge>
+<edge source="India" target="USA">
+  <data key="d0">2203.7</data>
+</edge>
+<edge source="India" target="Italy">
+  <data key="d0">2998.39</data>
+</edge>
+<edge source="India" target="France">
+  <data key="d0">2036.89</data>
+</edge>
+<edge source="India" target="Spain">
+  <data key="d0">4268.26</data>
+</edge>
+<edge source="India" target="UAE">
+  <data key="d0">2066.33</data>
+</edge>
+<edge source="India" target="Romania">
+  <data key="d0">2587.48</data>
+</edge>
+<edge source="India" target="Ukraine">
+  <data key="d0">4358.82</data>
+</edge>
+<edge source="India" target="Azerbaijan">
+  <data key="d0">2779.32</data>
+</edge>
+<edge source="India" target="Kazakhstan">
+  <data key="d0">3775.5</data>
+</edge>
+<edge source="India" target="Uzbekistan">
+  <data key="d0">3010.0</data>
+</edge>
+<edge source="India" target="Georgia">
+  <data key="d0">4079.88</data>
+</edge>
+<edge source="India" target="Czechia">
+  <data key="d0">2563.7</data>
+</edge>
+<edge source="India" target="Hungary">
+  <data key="d0">3679.45</data>
+</edge>
+<edge source="India" target="Morocco">
+  <data key="d0">2382.24</data>
+</edge>
+<edge source="South Korea" target="Turkey">
+  <data key="d0">18649.71</data>
+</edge>
+<edge source="South Korea" target="Germany">
+  <data key="d0">7625.93</data>
+</edge>
+<edge source="South Korea" target="Russia">
+  <data key="d0">258.02</data>
+</edge>
+<edge source="South Korea" target="Iraq">
+  <data key="d0">5573.32</data>
+</edge>
+<edge source="South Korea" target="Spain">
+  <data key="d0">6272.86</data>
+</edge>
+<edge source="South Korea" target="UAE">
+  <data key="d0">6634.43</data>
+</edge>
+<edge source="South Korea" target="Netherlands">
+  <data key="d0">9208.49</data>
+</edge>
+<edge source="South Korea" target="Saudi Arabia">
+  <data key="d0">7320.04</data>
+</edge>
+<edge source="South Korea" target="Japan">
+  <data key="d0">1773.99</data>
+</edge>
+<edge source="South Korea" target="Greece">
+  <data key="d0">257.23</data>
+</edge>
+<edge source="South Korea" target="Kazakhstan">
+  <data key="d0">7984.17</data>
+</edge>
+<edge source="South Korea" target="Uzbekistan">
+  <data key="d0">1055.31</data>
+</edge>
+<edge source="South Korea" target="Georgia">
+  <data key="d0">401.53</data>
+</edge>
+<edge source="South Korea" target="Qatar">
+  <data key="d0">1575.56</data>
+</edge>
+<edge source="South Korea" target="Pakistan">
+  <data key="d0">6482.26</data>
+</edge>
+<edge source="South Korea" target="Brazil">
+  <data key="d0">128.82</data>
+</edge>
+<edge source="Japan" target="Turkey">
+  <data key="d0">6425.96</data>
+</edge>
+<edge source="Japan" target="Germany">
+  <data key="d0">1694.86</data>
+</edge>
+<edge source="Japan" target="China">
+  <data key="d0">8578.13</data>
+</edge>
+<edge source="Japan" target="Russia">
+  <data key="d0">3064.26</data>
+</edge>
+<edge source="Japan" target="USA">
+  <data key="d0">2467.64</data>
+</edge>
+<edge source="Japan" target="UK">
+  <data key="d0">9046.6</data>
+</edge>
+<edge source="Japan" target="Iraq">
+  <data key="d0">806.71</data>
+</edge>
+<edge source="Japan" target="Spain">
+  <data key="d0">7722.42</data>
+</edge>
+<edge source="Japan" target="Saudi Arabia">
+  <data key="d0">7907.29</data>
+</edge>
+<edge source="Japan" target="South Korea">
+  <data key="d0">9216.58</data>
+</edge>
+<edge source="Japan" target="Bulgaria">
+  <data key="d0">4385.22</data>
+</edge>
+<edge source="Japan" target="Azerbaijan">
+  <data key="d0">314.13</data>
+</edge>
+<edge source="Japan" target="Turkmenistan">
+  <data key="d0">3549.67</data>
+</edge>
+<edge source="Japan" target="Czechia">
+  <data key="d0">6848.5</data>
+</edge>
+<edge source="Japan" target="Sweden">
+  <data key="d0">191.02</data>
+</edge>
+<edge source="Japan" target="Morocco">
+  <data key="d0">6929.91</data>
+</edge>
+<edge source="Japan" target="Pakistan">
+  <data key="d0">4627.44</data>
+</edge>
+<edge source="Ukraine" target="Turkey">
+  <data key="d0">18861.58</data>
+</edge>
+<edge source="Ukraine" target="Germany">
+  <data key="d0">3450.9</data>
+</edge>
+<edge source="Ukraine" target="China">
+  <data key="d0">2145.22</data>
+</edge>
+<edge source="Ukraine" target="Russia">
+  <data key="d0">8084.11</data>
+</edge>
+<edge source="Ukraine" target="Italy">
+  <data key="d0">7899.81</data>
+</edge>
+<edge source="Ukraine" target="Romania">
+  <data key="d0">2739.63</data>
+</edge>
+<edge source="Ukraine" target="India">
+  <data key="d0">1344.6</data>
+</edge>
+<edge source="Ukraine" target="Bulgaria">
+  <data key="d0">9340.32</data>
+</edge>
+<edge source="Ukraine" target="Azerbaijan">
+  <data key="d0">5066.49</data>
+</edge>
+<edge source="Ukraine" target="Uzbekistan">
+  <data key="d0">8496.57</data>
+</edge>
+<edge source="Ukraine" target="Hungary">
+  <data key="d0">9393.25</data>
+</edge>
+<edge source="Ukraine" target="Qatar">
+  <data key="d0">3628.65</data>
+</edge>
+<edge source="Ukraine" target="Kuwait">
+  <data key="d0">7047.89</data>
+</edge>
+<edge source="Ukraine" target="Pakistan">
+  <data key="d0">491.17</data>
+</edge>
+<edge source="Bulgaria" target="Turkey">
+  <data key="d0">23440.4</data>
+</edge>
+<edge source="Bulgaria" target="Germany">
+  <data key="d0">5417.91</data>
+</edge>
+<edge source="Bulgaria" target="France">
+  <data key="d0">4654.3</data>
+</edge>
+<edge source="Bulgaria" target="UAE">
+  <data key="d0">507.86</data>
+</edge>
+<edge source="Bulgaria" target="Netherlands">
+  <data key="d0">6202.56</data>
+</edge>
+<edge source="Bulgaria" target="Poland">
+  <data key="d0">1725.06</data>
+</edge>
+<edge source="Bulgaria" target="Israel">
+  <data key="d0">776.92</data>
+</edge>
+<edge source="Bulgaria" target="Saudi Arabia">
+  <data key="d0">4736.81</data>
+</edge>
+<edge source="Bulgaria" target="Japan">
+  <data key="d0">8515.33</data>
+</edge>
+<edge source="Bulgaria" target="Ukraine">
+  <data key="d0">8768.62</data>
+</edge>
+<edge source="Bulgaria" target="Greece">
+  <data key="d0">9086.23</data>
+</edge>
+<edge source="Bulgaria" target="Kazakhstan">
+  <data key="d0">4077.39</data>
+</edge>
+<edge source="Bulgaria" target="Georgia">
+  <data key="d0">1050.85</data>
+</edge>
+<edge source="Bulgaria" target="Austria">
+  <data key="d0">3823.64</data>
+</edge>
+<edge source="Bulgaria" target="Qatar">
+  <data key="d0">4110.52</data>
+</edge>
+<edge source="Greece" target="Turkey">
+  <data key="d0">15831.28</data>
+</edge>
+<edge source="Greece" target="UK">
+  <data key="d0">1089.64</data>
+</edge>
+<edge source="Greece" target="UAE">
+  <data key="d0">9521.5</data>
+</edge>
+<edge source="Greece" target="Iran">
+  <data key="d0">3161.81</data>
+</edge>
+<edge source="Greece" target="Poland">
+  <data key="d0">9503.33</data>
+</edge>
+<edge source="Greece" target="Egypt">
+  <data key="d0">7717.95</data>
+</edge>
+<edge source="Greece" target="South Korea">
+  <data key="d0">6199.59</data>
+</edge>
+<edge source="Greece" target="Bulgaria">
+  <data key="d0">8669.01</data>
+</edge>
+<edge source="Greece" target="Uzbekistan">
+  <data key="d0">1993.37</data>
+</edge>
+<edge source="Greece" target="Czechia">
+  <data key="d0">1843.1</data>
+</edge>
+<edge source="Greece" target="Algeria">
+  <data key="d0">9104.57</data>
+</edge>
+<edge source="Greece" target="Morocco">
+  <data key="d0">2019.79</data>
+</edge>
+<edge source="Greece" target="Brazil">
+  <data key="d0">5112.66</data>
+</edge>
+<edge source="Azerbaijan" target="Turkey">
+  <data key="d0">26531.4</data>
+</edge>
+<edge source="Azerbaijan" target="UK">
+  <data key="d0">8940.62</data>
+</edge>
+<edge source="Azerbaijan" target="France">
+  <data key="d0">5342.27</data>
+</edge>
+<edge source="Azerbaijan" target="Iran">
+  <data key="d0">3250.24</data>
+</edge>
+<edge source="Azerbaijan" target="Netherlands">
+  <data key="d0">8397.1</data>
+</edge>
+<edge source="Azerbaijan" target="Belgium">
+  <data key="d0">1398.14</data>
+</edge>
+<edge source="Azerbaijan" target="Egypt">
+  <data key="d0">3916.21</data>
+</edge>
+<edge source="Azerbaijan" target="Israel">
+  <data key="d0">6761.17</data>
+</edge>
+<edge source="Azerbaijan" target="Saudi Arabia">
+  <data key="d0">8366.2</data>
+</edge>
+<edge source="Azerbaijan" target="India">
+  <data key="d0">4203.85</data>
+</edge>
+<edge source="Azerbaijan" target="Japan">
+  <data key="d0">9332.75</data>
+</edge>
+<edge source="Azerbaijan" target="Ukraine">
+  <data key="d0">7480.54</data>
+</edge>
+<edge source="Azerbaijan" target="Czechia">
+  <data key="d0">6171.44</data>
+</edge>
+<edge source="Azerbaijan" target="Algeria">
+  <data key="d0">5393.32</data>
+</edge>
+<edge source="Azerbaijan" target="Qatar">
+  <data key="d0">5703.14</data>
+</edge>
+<edge source="Azerbaijan" target="Pakistan">
+  <data key="d0">644.46</data>
+</edge>
+<edge source="Azerbaijan" target="Brazil">
+  <data key="d0">3586.84</data>
+</edge>
+<edge source="Turkmenistan" target="Turkey">
+  <data key="d0">10155.76</data>
+</edge>
+<edge source="Turkmenistan" target="Russia">
+  <data key="d0">7721.36</data>
+</edge>
+<edge source="Turkmenistan" target="USA">
+  <data key="d0">703.4</data>
+</edge>
+<edge source="Turkmenistan" target="Iraq">
+  <data key="d0">5663.21</data>
+</edge>
+<edge source="Turkmenistan" target="France">
+  <data key="d0">4005.92</data>
+</edge>
+<edge source="Turkmenistan" target="UAE">
+  <data key="d0">7167.22</data>
+</edge>
+<edge source="Turkmenistan" target="Egypt">
+  <data key="d0">2291.1</data>
+</edge>
+<edge source="Turkmenistan" target="Israel">
+  <data key="d0">2271.09</data>
+</edge>
+<edge source="Turkmenistan" target="Switzerland">
+  <data key="d0">1374.61</data>
+</edge>
+<edge source="Turkmenistan" target="Japan">
+  <data key="d0">9245.37</data>
+</edge>
+<edge source="Turkmenistan" target="Georgia">
+  <data key="d0">4752.82</data>
+</edge>
+<edge source="Turkmenistan" target="Sweden">
+  <data key="d0">3861.22</data>
+</edge>
+<edge source="Kazakhstan" target="Turkey">
+  <data key="d0">24593.97</data>
+</edge>
+<edge source="Kazakhstan" target="Germany">
+  <data key="d0">2550.77</data>
+</edge>
+<edge source="Kazakhstan" target="Russia">
+  <data key="d0">3006.33</data>
+</edge>
+<edge source="Kazakhstan" target="USA">
+  <data key="d0">8366.32</data>
+</edge>
+<edge source="Kazakhstan" target="UK">
+  <data key="d0">8884.21</data>
+</edge>
+<edge source="Kazakhstan" target="India">
+  <data key="d0">4666.02</data>
+</edge>
+<edge source="Kazakhstan" target="South Korea">
+  <data key="d0">355.96</data>
+</edge>
+<edge source="Kazakhstan" target="Bulgaria">
+  <data key="d0">6872.87</data>
+</edge>
+<edge source="Kazakhstan" target="Georgia">
+  <data key="d0">4457.53</data>
+</edge>
+<edge source="Kazakhstan" target="Hungary">
+  <data key="d0">9535.24</data>
+</edge>
+<edge source="Kazakhstan" target="Kuwait">
+  <data key="d0">5079.14</data>
+</edge>
+<edge source="Uzbekistan" target="Turkey">
+  <data key="d0">2464.07</data>
+</edge>
+<edge source="Uzbekistan" target="China">
+  <data key="d0">8914.45</data>
+</edge>
+<edge source="Uzbekistan" target="USA">
+  <data key="d0">732.89</data>
+</edge>
+<edge source="Uzbekistan" target="UK">
+  <data key="d0">1871.67</data>
+</edge>
+<edge source="Uzbekistan" target="Iraq">
+  <data key="d0">1796.21</data>
+</edge>
+<edge source="Uzbekistan" target="Spain">
+  <data key="d0">4829.18</data>
+</edge>
+<edge source="Uzbekistan" target="UAE">
+  <data key="d0">4134.92</data>
+</edge>
+<edge source="Uzbekistan" target="Netherlands">
+  <data key="d0">8461.85</data>
+</edge>
+<edge source="Uzbekistan" target="Poland">
+  <data key="d0">2706.85</data>
+</edge>
+<edge source="Uzbekistan" target="Romania">
+  <data key="d0">8288.17</data>
+</edge>
+<edge source="Uzbekistan" target="Egypt">
+  <data key="d0">5950.06</data>
+</edge>
+<edge source="Uzbekistan" target="Israel">
+  <data key="d0">3997.72</data>
+</edge>
+<edge source="Uzbekistan" target="India">
+  <data key="d0">2041.5</data>
+</edge>
+<edge source="Uzbekistan" target="South Korea">
+  <data key="d0">4797.95</data>
+</edge>
+<edge source="Uzbekistan" target="Ukraine">
+  <data key="d0">1671.06</data>
+</edge>
+<edge source="Uzbekistan" target="Greece">
+  <data key="d0">2756.57</data>
+</edge>
+<edge source="Uzbekistan" target="Georgia">
+  <data key="d0">3631.05</data>
+</edge>
+<edge source="Uzbekistan" target="Kuwait">
+  <data key="d0">5685.96</data>
+</edge>
+<edge source="Uzbekistan" target="Brazil">
+  <data key="d0">7127.6</data>
+</edge>
+<edge source="Georgia" target="Turkey">
+  <data key="d0">9171.97</data>
+</edge>
+<edge source="Georgia" target="Iraq">
+  <data key="d0">2945.93</data>
+</edge>
+<edge source="Georgia" target="Netherlands">
+  <data key="d0">7090.27</data>
+</edge>
+<edge source="Georgia" target="Saudi Arabia">
+  <data key="d0">8548.88</data>
+</edge>
+<edge source="Georgia" target="India">
+  <data key="d0">4197.11</data>
+</edge>
+<edge source="Georgia" target="South Korea">
+  <data key="d0">7812.96</data>
+</edge>
+<edge source="Georgia" target="Bulgaria">
+  <data key="d0">2661.94</data>
+</edge>
+<edge source="Georgia" target="Turkmenistan">
+  <data key="d0">8667.78</data>
+</edge>
+<edge source="Georgia" target="Kazakhstan">
+  <data key="d0">5044.58</data>
+</edge>
+<edge source="Georgia" target="Uzbekistan">
+  <data key="d0">1255.34</data>
+</edge>
+<edge source="Georgia" target="Hungary">
+  <data key="d0">4566.79</data>
+</edge>
+<edge source="Georgia" target="Sweden">
+  <data key="d0">3228.53</data>
+</edge>
+<edge source="Georgia" target="Morocco">
+  <data key="d0">7926.38</data>
+</edge>
+<edge source="Georgia" target="Brazil">
+  <data key="d0">4967.23</data>
+</edge>
+<edge source="Czechia" target="Turkey">
+  <data key="d0">6849.34</data>
+</edge>
+<edge source="Czechia" target="Russia">
+  <data key="d0">3781.72</data>
+</edge>
+<edge source="Czechia" target="Iraq">
+  <data key="d0">2622.03</data>
+</edge>
+<edge source="Czechia" target="France">
+  <data key="d0">8581.95</data>
+</edge>
+<edge source="Czechia" target="Belgium">
+  <data key="d0">1740.75</data>
+</edge>
+<edge source="Czechia" target="India">
+  <data key="d0">7265.19</data>
+</edge>
+<edge source="Czechia" target="Japan">
+  <data key="d0">566.68</data>
+</edge>
+<edge source="Czechia" target="Greece">
+  <data key="d0">5058.77</data>
+</edge>
+<edge source="Czechia" target="Azerbaijan">
+  <data key="d0">8542.43</data>
+</edge>
+<edge source="Czechia" target="Morocco">
+  <data key="d0">9490.93</data>
+</edge>
+<edge source="Hungary" target="Turkey">
+  <data key="d0">13606.79</data>
+</edge>
+<edge source="Hungary" target="Russia">
+  <data key="d0">6342.83</data>
+</edge>
+<edge source="Hungary" target="Italy">
+  <data key="d0">8539.79</data>
+</edge>
+<edge source="Hungary" target="UAE">
+  <data key="d0">5732.75</data>
+</edge>
+<edge source="Hungary" target="Belgium">
+  <data key="d0">3972.35</data>
+</edge>
+<edge source="Hungary" target="Saudi Arabia">
+  <data key="d0">3160.92</data>
+</edge>
+<edge source="Hungary" target="Switzerland">
+  <data key="d0">7239.7</data>
+</edge>
+<edge source="Hungary" target="India">
+  <data key="d0">6814.44</data>
+</edge>
+<edge source="Hungary" target="Ukraine">
+  <data key="d0">2763.15</data>
+</edge>
+<edge source="Hungary" target="Kazakhstan">
+  <data key="d0">3187.87</data>
+</edge>
+<edge source="Hungary" target="Georgia">
+  <data key="d0">8078.37</data>
+</edge>
+<edge source="Austria" target="Turkey">
+  <data key="d0">21384.06</data>
+</edge>
+<edge source="Austria" target="Iraq">
+  <data key="d0">5996.22</data>
+</edge>
+<edge source="Austria" target="Netherlands">
+  <data key="d0">6759.57</data>
+</edge>
+<edge source="Austria" target="Belgium">
+  <data key="d0">912.59</data>
+</edge>
+<edge source="Austria" target="Switzerland">
+  <data key="d0">5381.41</data>
+</edge>
+<edge source="Austria" target="Bulgaria">
+  <data key="d0">1623.14</data>
+</edge>
+<edge source="Sweden" target="Turkey">
+  <data key="d0">22224.64</data>
+</edge>
+<edge source="Sweden" target="Germany">
+  <data key="d0">4724.56</data>
+</edge>
+<edge source="Sweden" target="China">
+  <data key="d0">8192.6</data>
+</edge>
+<edge source="Sweden" target="USA">
+  <data key="d0">2373.56</data>
+</edge>
+<edge source="Sweden" target="Italy">
+  <data key="d0">6068.41</data>
+</edge>
+<edge source="Sweden" target="UK">
+  <data key="d0">1640.71</data>
+</edge>
+<edge source="Sweden" target="France">
+  <data key="d0">2402.7</data>
+</edge>
+<edge source="Sweden" target="Spain">
+  <data key="d0">5418.08</data>
+</edge>
+<edge source="Sweden" target="UAE">
+  <data key="d0">2244.37</data>
+</edge>
+<edge source="Sweden" target="Saudi Arabia">
+  <data key="d0">2434.81</data>
+</edge>
+<edge source="Sweden" target="Japan">
+  <data key="d0">5351.48</data>
+</edge>
+<edge source="Sweden" target="Turkmenistan">
+  <data key="d0">8405.15</data>
+</edge>
+<edge source="Sweden" target="Georgia">
+  <data key="d0">8103.88</data>
+</edge>
+<edge source="Sweden" target="Pakistan">
+  <data key="d0">4170.24</data>
+</edge>
+<edge source="Sweden" target="Brazil">
+  <data key="d0">1643.29</data>
+</edge>
+<edge source="Algeria" target="Turkey">
+  <data key="d0">17565.92</data>
+</edge>
+<edge source="Algeria" target="Germany">
+  <data key="d0">3275.09</data>
+</edge>
+<edge source="Algeria" target="Italy">
+  <data key="d0">8573.61</data>
+</edge>
+<edge source="Algeria" target="UK">
+  <data key="d0">3248.56</data>
+</edge>
+<edge source="Algeria" target="Iraq">
+  <data key="d0">6839.99</data>
+</edge>
+<edge source="Algeria" target="Spain">
+  <data key="d0">6920.08</data>
+</edge>
+<edge source="Algeria" target="Israel">
+  <data key="d0">3267.38</data>
+</edge>
+<edge source="Algeria" target="Greece">
+  <data key="d0">2841.69</data>
+</edge>
+<edge source="Algeria" target="Azerbaijan">
+  <data key="d0">9543.27</data>
+</edge>
+<edge source="Algeria" target="Brazil">
+  <data key="d0">3879.35</data>
+</edge>
+<edge source="Morocco" target="Turkey">
+  <data key="d0">12026.8</data>
+</edge>
+<edge source="Morocco" target="Germany">
+  <data key="d0">246.57</data>
+</edge>
+<edge source="Morocco" target="Russia">
+  <data key="d0">3085.73</data>
+</edge>
+<edge source="Morocco" target="UK">
+  <data key="d0">3424.44</data>
+</edge>
+<edge source="Morocco" target="Iraq">
+  <data key="d0">6425.88</data>
+</edge>
+<edge source="Morocco" target="France">
+  <data key="d0">7247.11</data>
+</edge>
+<edge source="Morocco" target="Spain">
+  <data key="d0">2484.91</data>
+</edge>
+<edge source="Morocco" target="Iran">
+  <data key="d0">3535.5</data>
+</edge>
+<edge source="Morocco" target="Belgium">
+  <data key="d0">4089.35</data>
+</edge>
+<edge source="Morocco" target="Egypt">
+  <data key="d0">1826.35</data>
+</edge>
+<edge source="Morocco" target="India">
+  <data key="d0">6563.9</data>
+</edge>
+<edge source="Morocco" target="Japan">
+  <data key="d0">6844.27</data>
+</edge>
+<edge source="Morocco" target="Greece">
+  <data key="d0">6539.94</data>
+</edge>
+<edge source="Morocco" target="Georgia">
+  <data key="d0">9034.0</data>
+</edge>
+<edge source="Morocco" target="Czechia">
+  <data key="d0">3541.78</data>
+</edge>
+<edge source="Morocco" target="Qatar">
+  <data key="d0">7177.14</data>
+</edge>
+<edge source="Morocco" target="Kuwait">
+  <data key="d0">9586.43</data>
+</edge>
+<edge source="Morocco" target="Pakistan">
+  <data key="d0">5002.38</data>
+</edge>
+<edge source="Qatar" target="Turkey">
+  <data key="d0">13864.91</data>
+</edge>
+<edge source="Qatar" target="USA">
+  <data key="d0">493.94</data>
+</edge>
+<edge source="Qatar" target="UK">
+  <data key="d0">5510.7</data>
+</edge>
+<edge source="Qatar" target="Netherlands">
+  <data key="d0">4575.39</data>
+</edge>
+<edge source="Qatar" target="Romania">
+  <data key="d0">3932.61</data>
+</edge>
+<edge source="Qatar" target="Saudi Arabia">
+  <data key="d0">2823.84</data>
+</edge>
+<edge source="Qatar" target="South Korea">
+  <data key="d0">5737.97</data>
+</edge>
+<edge source="Qatar" target="Ukraine">
+  <data key="d0">1276.69</data>
+</edge>
+<edge source="Qatar" target="Bulgaria">
+  <data key="d0">9410.44</data>
+</edge>
+<edge source="Qatar" target="Azerbaijan">
+  <data key="d0">3326.42</data>
+</edge>
+<edge source="Qatar" target="Morocco">
+  <data key="d0">6164.49</data>
+</edge>
+<edge source="Qatar" target="Brazil">
+  <data key="d0">6666.07</data>
+</edge>
+<edge source="Kuwait" target="Turkey">
+  <data key="d0">17090.53</data>
+</edge>
+<edge source="Kuwait" target="Russia">
+  <data key="d0">2665.34</data>
+</edge>
+<edge source="Kuwait" target="Poland">
+  <data key="d0">5068.93</data>
+</edge>
+<edge source="Kuwait" target="Romania">
+  <data key="d0">7492.64</data>
+</edge>
+<edge source="Kuwait" target="Ukraine">
+  <data key="d0">2489.22</data>
+</edge>
+<edge source="Kuwait" target="Kazakhstan">
+  <data key="d0">7794.6</data>
+</edge>
+<edge source="Kuwait" target="Uzbekistan">
+  <data key="d0">3424.91</data>
+</edge>
+<edge source="Kuwait" target="Morocco">
+  <data key="d0">8081.42</data>
+</edge>
+<edge source="Kuwait" target="Pakistan">
+  <data key="d0">1659.6</data>
+</edge>
+<edge source="Pakistan" target="Turkey">
+  <data key="d0">8004.22</data>
+</edge>
+<edge source="Pakistan" target="Germany">
+  <data key="d0">6790.18</data>
+</edge>
+<edge source="Pakistan" target="China">
+  <data key="d0">2589.28</data>
+</edge>
+<edge source="Pakistan" target="Russia">
+  <data key="d0">4374.18</data>
+</edge>
+<edge source="Pakistan" target="Belgium">
+  <data key="d0">1742.65</data>
+</edge>
+<edge source="Pakistan" target="Poland">
+  <data key="d0">7527.2</data>
+</edge>
+<edge source="Pakistan" target="Israel">
+  <data key="d0">1660.09</data>
+</edge>
+<edge source="Pakistan" target="South Korea">
+  <data key="d0">8646.16</data>
+</edge>
+<edge source="Pakistan" target="Japan">
+  <data key="d0">7246.29</data>
+</edge>
+<edge source="Pakistan" target="Ukraine">
+  <data key="d0">4609.9</data>
+</edge>
+<edge source="Pakistan" target="Azerbaijan">
+  <data key="d0">295.72</data>
+</edge>
+<edge source="Pakistan" target="Sweden">
+  <data key="d0">5847.92</data>
+</edge>
+<edge source="Pakistan" target="Morocco">
+  <data key="d0">7625.06</data>
+</edge>
+<edge source="Pakistan" target="Kuwait">
+  <data key="d0">8328.48</data>
+</edge>
+<edge source="Brazil" target="Turkey">
+  <data key="d0">12249.93</data>
+</edge>
+<edge source="Brazil" target="France">
+  <data key="d0">5857.76</data>
+</edge>
+<edge source="Brazil" target="UAE">
+  <data key="d0">1341.38</data>
+</edge>
+<edge source="Brazil" target="Iran">
+  <data key="d0">352.45</data>
+</edge>
+<edge source="Brazil" target="Netherlands">
+  <data key="d0">7878.74</data>
+</edge>
+<edge source="Brazil" target="Belgium">
+  <data key="d0">6505.41</data>
+</edge>
+<edge source="Brazil" target="Saudi Arabia">
+  <data key="d0">6953.02</data>
+</edge>
+<edge source="Brazil" target="South Korea">
+  <data key="d0">2908.96</data>
+</edge>
+<edge source="Brazil" target="Greece">
+  <data key="d0">2976.72</data>
+</edge>
+<edge source="Brazil" target="Azerbaijan">
+  <data key="d0">4988.25</data>
+</edge>
+<edge source="Brazil" target="Uzbekistan">
+  <data key="d0">5429.81</data>
+</edge>
+<edge source="Brazil" target="Georgia">
+  <data key="d0">3851.64</data>
+</edge>
+<edge source="Brazil" target="Sweden">
+  <data key="d0">1483.81</data>
+</edge>
+<edge source="Brazil" target="Algeria">
+  <data key="d0">3074.43</data>
+</edge>
+<edge source="Brazil" target="Qatar">
+  <data key="d0">8012.87</data>
+</edge>
+</graph></graphml>

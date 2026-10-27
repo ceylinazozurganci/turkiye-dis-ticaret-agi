@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="alpha" attr.type="double"/>
+<key id="d0" for="edge" attr.name="Weight_USD_M" attr.type="double"/>
+<graph edgedefault="directed"><node id="China"/>
+<node id="Turkey"/>
+<node id="Russia"/>
+<node id="France"/>
+<node id="Spain"/>
+<node id="UAE"/>
+<node id="Romania"/>
+<node id="South Korea"/>
+<node id="Ukraine"/>
+<node id="Bulgaria"/>
+<node id="Azerbaijan"/>
+<node id="Kazakhstan"/>
+<node id="Austria"/>
+<node id="Sweden"/>
+<edge source="China" target="Turkey">
+  <data key="d0">41712.9</data>
+  <data key="d1">0.00597407714721098</data>
+</edge>
+<edge source="Russia" target="Turkey">
+  <data key="d0">24580.48</data>
+  <data key="d1">0.015834498327757792</data>
+</edge>
+<edge source="France" target="Turkey">
+  <data key="d0">24554.08</data>
+  <data key="d1">0.02034897634187373</data>
+</edge>
+<edge source="Spain" target="Turkey">
+  <data key="d0">21042.49</data>
+  <data key="d1">0.021328444993906934</data>
+</edge>
+<edge source="UAE" target="Turkey">
+  <data key="d0">24507.6</data>
+  <data key="d1">0.004341798655094767</data>
+</edge>
+<edge source="Romania" target="Turkey">
+  <data key="d0">22753.83</data>
+  <data key="d1">0.033105534864552734</data>
+</edge>
+<edge source="South Korea" target="Turkey">
+  <data key="d0">18649.71</data>
+  <data key="d1">0.019959029499141356</data>
+</edge>
+<edge source="Ukraine" target="Turkey">
+  <data key="d0">18861.58</data>
+  <data key="d1">0.04344165838415629</data>
+</edge>
+<edge source="Bulgaria" target="Turkey">
+  <data key="d0">23440.4</data>
+  <data key="d1">0.012261426991414102</data>
+</edge>
+<edge source="Azerbaijan" target="Turkey">
+  <data key="d0">26531.4</data>
+  <data key="d1">0.015312086271671185</data>
+</edge>
+<edge source="Kazakhstan" target="Turkey">
+  <data key="d0">24593.97</data>
+  <data key="d1">0.023139146792803482</data>
+</edge>
+<edge source="Austria" target="Turkey">
+  <data key="d0">21384.06</data>
+  <data key="d1">0.028695859310576707</data>
+</edge>
+<edge source="Sweden" target="Turkey">
+  <data key="d0">22224.64</data>
+  <data key="d1">0.014696702224855187</data>
+</edge>
+</graph></graphml>

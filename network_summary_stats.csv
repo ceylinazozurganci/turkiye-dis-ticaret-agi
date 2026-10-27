@@ -1,0 +1,3 @@
+Yıl,Düğüm Sayısı (Nodes),Kenar Sayısı (Edges),Yoğunluk (Density),Karşılıklılık (Reciprocity),Bileşen Sayısı (Strongly Connected),Ortalama En Kısa Yol,Ağ Çapı (Diameter),Kümelenme Katsayısı (Clustering),Derece Benzeşimi (Assortativity)
+2015,41,608,0.3707,1.0,1,1.6293,2,0.4472,-0.1064
+2024,41,596,0.3634,1.0,1,1.6366,2,0.4329,-0.1079

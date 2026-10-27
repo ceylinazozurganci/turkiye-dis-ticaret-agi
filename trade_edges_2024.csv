@@ -1,0 +1,597 @@
+Source,Target,Weight_USD_M,Year
+Turkey,Germany,5553.17,2024
+Germany,Turkey,8055.87,2024
+Turkey,China,21520.06,2024
+China,Turkey,41712.9,2024
+Turkey,Russia,30651.37,2024
+Russia,Turkey,24580.48,2024
+Turkey,USA,13511.67,2024
+USA,Turkey,3998.21,2024
+Turkey,Italy,17972.5,2024
+Italy,Turkey,7183.52,2024
+Turkey,UK,21810.12,2024
+UK,Turkey,15876.33,2024
+Turkey,Iraq,14142.64,2024
+Iraq,Turkey,3257.52,2024
+Turkey,France,10093.29,2024
+France,Turkey,24554.08,2024
+Turkey,Spain,9517.92,2024
+Spain,Turkey,21042.49,2024
+Turkey,UAE,7600.49,2024
+UAE,Turkey,24507.6,2024
+Turkey,Iran,12515.48,2024
+Iran,Turkey,6148.81,2024
+Turkey,Netherlands,9953.91,2024
+Netherlands,Turkey,21344.46,2024
+Turkey,Belgium,10649.97,2024
+Belgium,Turkey,8575.08,2024
+Turkey,Poland,19502.82,2024
+Poland,Turkey,10216.62,2024
+Turkey,Romania,20249.61,2024
+Romania,Turkey,22753.83,2024
+Turkey,Egypt,8996.92,2024
+Egypt,Turkey,5478.14,2024
+Turkey,Israel,4549.89,2024
+Israel,Turkey,1662.87,2024
+Turkey,Saudi Arabia,1600.4,2024
+Saudi Arabia,Turkey,9668.35,2024
+Turkey,Switzerland,2942.13,2024
+Switzerland,Turkey,15251.77,2024
+Turkey,India,9474.85,2024
+India,Turkey,2918.3,2024
+Turkey,South Korea,11315.55,2024
+South Korea,Turkey,18649.71,2024
+Turkey,Japan,8428.68,2024
+Japan,Turkey,6425.96,2024
+Turkey,Ukraine,17594.66,2024
+Ukraine,Turkey,18861.58,2024
+Turkey,Bulgaria,19576.39,2024
+Bulgaria,Turkey,23440.4,2024
+Turkey,Greece,19994.2,2024
+Greece,Turkey,15831.28,2024
+Turkey,Azerbaijan,7983.78,2024
+Azerbaijan,Turkey,26531.4,2024
+Turkey,Turkmenistan,6642.72,2024
+Turkmenistan,Turkey,10155.76,2024
+Turkey,Kazakhstan,6690.71,2024
+Kazakhstan,Turkey,24593.97,2024
+Turkey,Uzbekistan,6893.15,2024
+Uzbekistan,Turkey,2464.07,2024
+Turkey,Georgia,4512.89,2024
+Georgia,Turkey,9171.97,2024
+Turkey,Czechia,19774.83,2024
+Czechia,Turkey,6849.34,2024
+Turkey,Hungary,4158.5,2024
+Hungary,Turkey,13606.79,2024
+Turkey,Austria,19678.68,2024
+Austria,Turkey,21384.06,2024
+Turkey,Sweden,17719.28,2024
+Sweden,Turkey,22224.64,2024
+Turkey,Algeria,10132.34,2024
+Algeria,Turkey,17565.92,2024
+Turkey,Morocco,18742.01,2024
+Morocco,Turkey,12026.8,2024
+Turkey,Qatar,4605.14,2024
+Qatar,Turkey,13864.91,2024
+Turkey,Kuwait,17459.06,2024
+Kuwait,Turkey,17090.53,2024
+Turkey,Pakistan,8714.85,2024
+Pakistan,Turkey,8004.22,2024
+Turkey,Brazil,7091.42,2024
+Brazil,Turkey,12249.93,2024
+Germany,China,4296.66,2024
+China,Germany,8162.81,2024
+Germany,Italy,7124.27,2024
+Italy,Germany,9491.12,2024
+Germany,Iraq,5235.88,2024
+Iraq,Germany,3942.96,2024
+Germany,Belgium,9500.87,2024
+Belgium,Germany,9168.32,2024
+Germany,Egypt,2649.36,2024
+Egypt,Germany,4289.71,2024
+Germany,Israel,3403.29,2024
+Israel,Germany,2453.18,2024
+Germany,South Korea,3497.91,2024
+South Korea,Germany,7625.93,2024
+Germany,Japan,3752.92,2024
+Japan,Germany,1694.86,2024
+Germany,Ukraine,4592.45,2024
+Ukraine,Germany,3450.9,2024
+Germany,Bulgaria,8321.84,2024
+Bulgaria,Germany,5417.91,2024
+Germany,Kazakhstan,493.66,2024
+Kazakhstan,Germany,2550.77,2024
+Germany,Sweden,2606.43,2024
+Sweden,Germany,4724.56,2024
+Germany,Algeria,1789.52,2024
+Algeria,Germany,3275.09,2024
+Germany,Morocco,617.21,2024
+Morocco,Germany,246.57,2024
+Germany,Pakistan,5778.12,2024
+Pakistan,Germany,6790.18,2024
+China,Iraq,5544.57,2024
+Iraq,China,3320.44,2024
+China,France,5606.61,2024
+France,China,1642.85,2024
+China,Romania,7672.59,2024
+Romania,China,5170.91,2024
+China,Saudi Arabia,3671.1,2024
+Saudi Arabia,China,2729.13,2024
+China,Switzerland,4609.35,2024
+Switzerland,China,6898.12,2024
+China,India,8961.11,2024
+India,China,6089.42,2024
+China,Japan,6298.87,2024
+Japan,China,8578.13,2024
+China,Ukraine,8289.65,2024
+Ukraine,China,2145.22,2024
+China,Uzbekistan,7750.34,2024
+Uzbekistan,China,8914.45,2024
+China,Sweden,8489.51,2024
+Sweden,China,8192.6,2024
+China,Pakistan,3324.17,2024
+Pakistan,China,2589.28,2024
+Russia,Iran,6136.18,2024
+Iran,Russia,808.04,2024
+Russia,Belgium,7497.49,2024
+Belgium,Russia,4408.37,2024
+Russia,Romania,4768.17,2024
+Romania,Russia,6454.49,2024
+Russia,Egypt,2954.63,2024
+Egypt,Russia,3698.33,2024
+Russia,South Korea,7708.44,2024
+South Korea,Russia,258.02,2024
+Russia,Japan,2908.06,2024
+Japan,Russia,3064.26,2024
+Russia,Ukraine,2485.47,2024
+Ukraine,Russia,8084.11,2024
+Russia,Turkmenistan,7435.07,2024
+Turkmenistan,Russia,7721.36,2024
+Russia,Kazakhstan,1549.93,2024
+Kazakhstan,Russia,3006.33,2024
+Russia,Czechia,8430.21,2024
+Czechia,Russia,3781.72,2024
+Russia,Hungary,8107.71,2024
+Hungary,Russia,6342.83,2024
+Russia,Morocco,3647.02,2024
+Morocco,Russia,3085.73,2024
+Russia,Kuwait,5087.21,2024
+Kuwait,Russia,2665.34,2024
+Russia,Pakistan,2610.66,2024
+Pakistan,Russia,4374.18,2024
+USA,UK,7301.92,2024
+UK,USA,5364.07,2024
+USA,France,828.63,2024
+France,USA,8973.11,2024
+USA,Spain,3905.06,2024
+Spain,USA,4234.4,2024
+USA,UAE,5732.94,2024
+UAE,USA,2592.63,2024
+USA,Iran,4432.76,2024
+Iran,USA,5143.41,2024
+USA,Romania,9286.34,2024
+Romania,USA,8564.11,2024
+USA,Israel,3984.9,2024
+Israel,USA,5672.63,2024
+USA,Saudi Arabia,9452.39,2024
+Saudi Arabia,USA,3034.88,2024
+USA,Switzerland,3697.38,2024
+Switzerland,USA,194.17,2024
+USA,India,8419.83,2024
+India,USA,2203.7,2024
+USA,Japan,9324.68,2024
+Japan,USA,2467.64,2024
+USA,Turkmenistan,417.19,2024
+Turkmenistan,USA,703.4,2024
+USA,Kazakhstan,1460.44,2024
+Kazakhstan,USA,8366.32,2024
+USA,Uzbekistan,214.04,2024
+Uzbekistan,USA,732.89,2024
+USA,Sweden,5629.32,2024
+Sweden,USA,2373.56,2024
+USA,Qatar,8734.26,2024
+Qatar,USA,493.94,2024
+Italy,Iraq,3951.64,2024
+Iraq,Italy,7894.94,2024
+Italy,France,683.51,2024
+France,Italy,3323.1,2024
+Italy,Belgium,2360.64,2024
+Belgium,Italy,6636.93,2024
+Italy,Romania,6753.23,2024
+Romania,Italy,6130.43,2024
+Italy,Saudi Arabia,9367.15,2024
+Saudi Arabia,Italy,1545.25,2024
+Italy,Switzerland,1213.31,2024
+Switzerland,Italy,6334.02,2024
+Italy,India,8046.17,2024
+India,Italy,2998.39,2024
+Italy,Ukraine,2145.42,2024
+Ukraine,Italy,7899.81,2024
+Italy,Hungary,5372.41,2024
+Hungary,Italy,8539.79,2024
+Italy,Sweden,2420.9,2024
+Sweden,Italy,6068.41,2024
+Italy,Algeria,5494.1,2024
+Algeria,Italy,8573.61,2024
+UK,UAE,4106.53,2024
+UAE,UK,6451.66,2024
+UK,Netherlands,9313.0,2024
+Netherlands,UK,2488.09,2024
+UK,Poland,7613.79,2024
+Poland,UK,1952.12,2024
+UK,Israel,5658.96,2024
+Israel,UK,9339.63,2024
+UK,Saudi Arabia,2287.51,2024
+Saudi Arabia,UK,4500.56,2024
+UK,Japan,3581.41,2024
+Japan,UK,9046.6,2024
+UK,Greece,1433.27,2024
+Greece,UK,1089.64,2024
+UK,Azerbaijan,9216.66,2024
+Azerbaijan,UK,8940.62,2024
+UK,Kazakhstan,5763.6,2024
+Kazakhstan,UK,8884.21,2024
+UK,Uzbekistan,4027.76,2024
+Uzbekistan,UK,1871.67,2024
+UK,Sweden,3894.35,2024
+Sweden,UK,1640.71,2024
+UK,Algeria,3173.04,2024
+Algeria,UK,3248.56,2024
+UK,Morocco,1079.1,2024
+Morocco,UK,3424.44,2024
+UK,Qatar,6910.22,2024
+Qatar,UK,5510.7,2024
+Iraq,Switzerland,4989.7,2024
+Switzerland,Iraq,5659.14,2024
+Iraq,South Korea,4409.97,2024
+South Korea,Iraq,5573.32,2024
+Iraq,Japan,3789.2,2024
+Japan,Iraq,806.71,2024
+Iraq,Turkmenistan,2955.33,2024
+Turkmenistan,Iraq,5663.21,2024
+Iraq,Uzbekistan,1142.45,2024
+Uzbekistan,Iraq,1796.21,2024
+Iraq,Georgia,7993.0,2024
+Georgia,Iraq,2945.93,2024
+Iraq,Czechia,812.46,2024
+Czechia,Iraq,2622.03,2024
+Iraq,Austria,468.69,2024
+Austria,Iraq,5996.22,2024
+Iraq,Algeria,5622.32,2024
+Algeria,Iraq,6839.99,2024
+Iraq,Morocco,7795.56,2024
+Morocco,Iraq,6425.88,2024
+France,Spain,1301.36,2024
+Spain,France,6528.04,2024
+France,Belgium,6395.0,2024
+Belgium,France,6778.38,2024
+France,India,8199.01,2024
+India,France,2036.89,2024
+France,Bulgaria,4232.72,2024
+Bulgaria,France,4654.3,2024
+France,Azerbaijan,1497.94,2024
+Azerbaijan,France,5342.27,2024
+France,Turkmenistan,8927.99,2024
+Turkmenistan,France,4005.92,2024
+France,Czechia,5740.45,2024
+Czechia,France,8581.95,2024
+France,Sweden,9021.5,2024
+Sweden,France,2402.7,2024
+France,Morocco,4744.58,2024
+Morocco,France,7247.11,2024
+France,Brazil,6293.25,2024
+Brazil,France,5857.76,2024
+Spain,UAE,1301.86,2024
+UAE,Spain,5451.91,2024
+Spain,Iran,2476.0,2024
+Iran,Spain,8321.38,2024
+Spain,Belgium,8102.12,2024
+Belgium,Spain,2219.66,2024
+Spain,Poland,4636.32,2024
+Poland,Spain,5697.32,2024
+Spain,Egypt,5121.3,2024
+Egypt,Spain,811.59,2024
+Spain,India,1350.5,2024
+India,Spain,4268.26,2024
+Spain,South Korea,131.68,2024
+South Korea,Spain,6272.86,2024
+Spain,Japan,8420.77,2024
+Japan,Spain,7722.42,2024
+Spain,Uzbekistan,2094.16,2024
+Uzbekistan,Spain,4829.18,2024
+Spain,Sweden,6863.63,2024
+Sweden,Spain,5418.08,2024
+Spain,Algeria,7987.47,2024
+Algeria,Spain,6920.08,2024
+Spain,Morocco,7275.45,2024
+Morocco,Spain,2484.91,2024
+UAE,Iran,388.51,2024
+Iran,UAE,462.63,2024
+UAE,Netherlands,1334.88,2024
+Netherlands,UAE,8838.32,2024
+UAE,Belgium,147.11,2024
+Belgium,UAE,5292.34,2024
+UAE,Israel,3676.2,2024
+Israel,UAE,6551.32,2024
+UAE,Saudi Arabia,811.61,2024
+Saudi Arabia,UAE,7299.45,2024
+UAE,India,7046.66,2024
+India,UAE,2066.33,2024
+UAE,South Korea,4167.9,2024
+South Korea,UAE,6634.43,2024
+UAE,Bulgaria,126.86,2024
+Bulgaria,UAE,507.86,2024
+UAE,Greece,6903.49,2024
+Greece,UAE,9521.5,2024
+UAE,Turkmenistan,7166.13,2024
+Turkmenistan,UAE,7167.22,2024
+UAE,Uzbekistan,2120.3,2024
+Uzbekistan,UAE,4134.92,2024
+UAE,Hungary,5193.95,2024
+Hungary,UAE,5732.75,2024
+UAE,Sweden,6671.15,2024
+Sweden,UAE,2244.37,2024
+UAE,Brazil,4741.37,2024
+Brazil,UAE,1341.38,2024
+Iran,Netherlands,1657.42,2024
+Netherlands,Iran,7572.85,2024
+Iran,Belgium,1481.11,2024
+Belgium,Iran,4192.37,2024
+Iran,Poland,8766.4,2024
+Poland,Iran,2446.75,2024
+Iran,Egypt,593.36,2024
+Egypt,Iran,1370.7,2024
+Iran,Switzerland,197.28,2024
+Switzerland,Iran,1877.82,2024
+Iran,Greece,3519.45,2024
+Greece,Iran,3161.81,2024
+Iran,Azerbaijan,6229.97,2024
+Azerbaijan,Iran,3250.24,2024
+Iran,Morocco,4067.32,2024
+Morocco,Iran,3535.5,2024
+Iran,Brazil,577.2,2024
+Brazil,Iran,352.45,2024
+Netherlands,Romania,9388.62,2024
+Romania,Netherlands,6476.46,2024
+Netherlands,South Korea,5310.27,2024
+South Korea,Netherlands,9208.49,2024
+Netherlands,Bulgaria,6416.58,2024
+Bulgaria,Netherlands,6202.56,2024
+Netherlands,Azerbaijan,9459.19,2024
+Azerbaijan,Netherlands,8397.1,2024
+Netherlands,Uzbekistan,7579.97,2024
+Uzbekistan,Netherlands,8461.85,2024
+Netherlands,Georgia,427.98,2024
+Georgia,Netherlands,7090.27,2024
+Netherlands,Austria,8877.38,2024
+Austria,Netherlands,6759.57,2024
+Netherlands,Qatar,6853.35,2024
+Qatar,Netherlands,4575.39,2024
+Netherlands,Brazil,2843.58,2024
+Brazil,Netherlands,7878.74,2024
+Belgium,Romania,7026.88,2024
+Romania,Belgium,7367.08,2024
+Belgium,Egypt,5164.87,2024
+Egypt,Belgium,4039.36,2024
+Belgium,Switzerland,5843.62,2024
+Switzerland,Belgium,5567.93,2024
+Belgium,Azerbaijan,1682.38,2024
+Azerbaijan,Belgium,1398.14,2024
+Belgium,Czechia,2985.88,2024
+Czechia,Belgium,1740.75,2024
+Belgium,Hungary,593.37,2024
+Hungary,Belgium,3972.35,2024
+Belgium,Austria,7208.55,2024
+Austria,Belgium,912.59,2024
+Belgium,Morocco,8376.67,2024
+Morocco,Belgium,4089.35,2024
+Belgium,Pakistan,1707.68,2024
+Pakistan,Belgium,1742.65,2024
+Belgium,Brazil,1258.5,2024
+Brazil,Belgium,6505.41,2024
+Poland,Saudi Arabia,8022.91,2024
+Saudi Arabia,Poland,6668.08,2024
+Poland,Switzerland,3560.36,2024
+Switzerland,Poland,3578.14,2024
+Poland,Bulgaria,4543.19,2024
+Bulgaria,Poland,1725.06,2024
+Poland,Greece,4694.97,2024
+Greece,Poland,9503.33,2024
+Poland,Uzbekistan,2907.38,2024
+Uzbekistan,Poland,2706.85,2024
+Poland,Kuwait,8710.3,2024
+Kuwait,Poland,5068.93,2024
+Poland,Pakistan,7996.72,2024
+Pakistan,Poland,7527.2,2024
+Romania,Egypt,5866.42,2024
+Egypt,Romania,3484.06,2024
+Romania,India,4041.13,2024
+India,Romania,2587.48,2024
+Romania,Ukraine,3122.41,2024
+Ukraine,Romania,2739.63,2024
+Romania,Uzbekistan,3719.01,2024
+Uzbekistan,Romania,8288.17,2024
+Romania,Qatar,8149.41,2024
+Qatar,Romania,3932.61,2024
+Romania,Kuwait,4216.85,2024
+Kuwait,Romania,7492.64,2024
+Egypt,Switzerland,5636.11,2024
+Switzerland,Egypt,1358.24,2024
+Egypt,Greece,2257.8,2024
+Greece,Egypt,7717.95,2024
+Egypt,Azerbaijan,8698.98,2024
+Azerbaijan,Egypt,3916.21,2024
+Egypt,Turkmenistan,656.27,2024
+Turkmenistan,Egypt,2291.1,2024
+Egypt,Uzbekistan,4495.42,2024
+Uzbekistan,Egypt,5950.06,2024
+Egypt,Morocco,6130.16,2024
+Morocco,Egypt,1826.35,2024
+Israel,Bulgaria,5959.35,2024
+Bulgaria,Israel,776.92,2024
+Israel,Azerbaijan,2720.45,2024
+Azerbaijan,Israel,6761.17,2024
+Israel,Turkmenistan,9404.27,2024
+Turkmenistan,Israel,2271.09,2024
+Israel,Uzbekistan,3725.05,2024
+Uzbekistan,Israel,3997.72,2024
+Israel,Algeria,8298.1,2024
+Algeria,Israel,3267.38,2024
+Israel,Pakistan,3864.21,2024
+Pakistan,Israel,1660.09,2024
+Saudi Arabia,South Korea,2387.22,2024
+South Korea,Saudi Arabia,7320.04,2024
+Saudi Arabia,Japan,6727.37,2024
+Japan,Saudi Arabia,7907.29,2024
+Saudi Arabia,Bulgaria,6140.72,2024
+Bulgaria,Saudi Arabia,4736.81,2024
+Saudi Arabia,Azerbaijan,8129.42,2024
+Azerbaijan,Saudi Arabia,8366.2,2024
+Saudi Arabia,Georgia,5781.53,2024
+Georgia,Saudi Arabia,8548.88,2024
+Saudi Arabia,Hungary,9392.48,2024
+Hungary,Saudi Arabia,3160.92,2024
+Saudi Arabia,Sweden,6580.58,2024
+Sweden,Saudi Arabia,2434.81,2024
+Saudi Arabia,Qatar,9129.59,2024
+Qatar,Saudi Arabia,2823.84,2024
+Saudi Arabia,Brazil,697.58,2024
+Brazil,Saudi Arabia,6953.02,2024
+Switzerland,Turkmenistan,7838.24,2024
+Turkmenistan,Switzerland,1374.61,2024
+Switzerland,Hungary,8993.38,2024
+Hungary,Switzerland,7239.7,2024
+Switzerland,Austria,6300.37,2024
+Austria,Switzerland,5381.41,2024
+India,Ukraine,4358.82,2024
+Ukraine,India,1344.6,2024
+India,Azerbaijan,2779.32,2024
+Azerbaijan,India,4203.85,2024
+India,Kazakhstan,3775.5,2024
+Kazakhstan,India,4666.02,2024
+India,Uzbekistan,3010.0,2024
+Uzbekistan,India,2041.5,2024
+India,Georgia,4079.88,2024
+Georgia,India,4197.11,2024
+India,Czechia,2563.7,2024
+Czechia,India,7265.19,2024
+India,Hungary,3679.45,2024
+Hungary,India,6814.44,2024
+India,Morocco,2382.24,2024
+Morocco,India,6563.9,2024
+South Korea,Japan,1773.99,2024
+Japan,South Korea,9216.58,2024
+South Korea,Greece,257.23,2024
+Greece,South Korea,6199.59,2024
+South Korea,Kazakhstan,7984.17,2024
+Kazakhstan,South Korea,355.96,2024
+South Korea,Uzbekistan,1055.31,2024
+Uzbekistan,South Korea,4797.95,2024
+South Korea,Georgia,401.53,2024
+Georgia,South Korea,7812.96,2024
+South Korea,Qatar,1575.56,2024
+Qatar,South Korea,5737.97,2024
+South Korea,Pakistan,6482.26,2024
+Pakistan,South Korea,8646.16,2024
+South Korea,Brazil,128.82,2024
+Brazil,South Korea,2908.96,2024
+Japan,Bulgaria,4385.22,2024
+Bulgaria,Japan,8515.33,2024
+Japan,Azerbaijan,314.13,2024
+Azerbaijan,Japan,9332.75,2024
+Japan,Turkmenistan,3549.67,2024
+Turkmenistan,Japan,9245.37,2024
+Japan,Czechia,6848.5,2024
+Czechia,Japan,566.68,2024
+Japan,Sweden,191.02,2024
+Sweden,Japan,5351.48,2024
+Japan,Morocco,6929.91,2024
+Morocco,Japan,6844.27,2024
+Japan,Pakistan,4627.44,2024
+Pakistan,Japan,7246.29,2024
+Ukraine,Bulgaria,9340.32,2024
+Bulgaria,Ukraine,8768.62,2024
+Ukraine,Azerbaijan,5066.49,2024
+Azerbaijan,Ukraine,7480.54,2024
+Ukraine,Uzbekistan,8496.57,2024
+Uzbekistan,Ukraine,1671.06,2024
+Ukraine,Hungary,9393.25,2024
+Hungary,Ukraine,2763.15,2024
+Ukraine,Qatar,3628.65,2024
+Qatar,Ukraine,1276.69,2024
+Ukraine,Kuwait,7047.89,2024
+Kuwait,Ukraine,2489.22,2024
+Ukraine,Pakistan,491.17,2024
+Pakistan,Ukraine,4609.9,2024
+Bulgaria,Greece,9086.23,2024
+Greece,Bulgaria,8669.01,2024
+Bulgaria,Kazakhstan,4077.39,2024
+Kazakhstan,Bulgaria,6872.87,2024
+Bulgaria,Georgia,1050.85,2024
+Georgia,Bulgaria,2661.94,2024
+Bulgaria,Austria,3823.64,2024
+Austria,Bulgaria,1623.14,2024
+Bulgaria,Qatar,4110.52,2024
+Qatar,Bulgaria,9410.44,2024
+Greece,Uzbekistan,1993.37,2024
+Uzbekistan,Greece,2756.57,2024
+Greece,Czechia,1843.1,2024
+Czechia,Greece,5058.77,2024
+Greece,Algeria,9104.57,2024
+Algeria,Greece,2841.69,2024
+Greece,Morocco,2019.79,2024
+Morocco,Greece,6539.94,2024
+Greece,Brazil,5112.66,2024
+Brazil,Greece,2976.72,2024
+Azerbaijan,Czechia,6171.44,2024
+Czechia,Azerbaijan,8542.43,2024
+Azerbaijan,Algeria,5393.32,2024
+Algeria,Azerbaijan,9543.27,2024
+Azerbaijan,Qatar,5703.14,2024
+Qatar,Azerbaijan,3326.42,2024
+Azerbaijan,Pakistan,644.46,2024
+Pakistan,Azerbaijan,295.72,2024
+Azerbaijan,Brazil,3586.84,2024
+Brazil,Azerbaijan,4988.25,2024
+Turkmenistan,Georgia,4752.82,2024
+Georgia,Turkmenistan,8667.78,2024
+Turkmenistan,Sweden,3861.22,2024
+Sweden,Turkmenistan,8405.15,2024
+Kazakhstan,Georgia,4457.53,2024
+Georgia,Kazakhstan,5044.58,2024
+Kazakhstan,Hungary,9535.24,2024
+Hungary,Kazakhstan,3187.87,2024
+Kazakhstan,Kuwait,5079.14,2024
+Kuwait,Kazakhstan,7794.6,2024
+Uzbekistan,Georgia,3631.05,2024
+Georgia,Uzbekistan,1255.34,2024
+Uzbekistan,Kuwait,5685.96,2024
+Kuwait,Uzbekistan,3424.91,2024
+Uzbekistan,Brazil,7127.6,2024
+Brazil,Uzbekistan,5429.81,2024
+Georgia,Hungary,4566.79,2024
+Hungary,Georgia,8078.37,2024
+Georgia,Sweden,3228.53,2024
+Sweden,Georgia,8103.88,2024
+Georgia,Morocco,7926.38,2024
+Morocco,Georgia,9034.0,2024
+Georgia,Brazil,4967.23,2024
+Brazil,Georgia,3851.64,2024
+Czechia,Morocco,9490.93,2024
+Morocco,Czechia,3541.78,2024
+Sweden,Pakistan,4170.24,2024
+Pakistan,Sweden,5847.92,2024
+Sweden,Brazil,1643.29,2024
+Brazil,Sweden,1483.81,2024
+Algeria,Brazil,3879.35,2024
+Brazil,Algeria,3074.43,2024
+Morocco,Qatar,7177.14,2024
+Qatar,Morocco,6164.49,2024
+Morocco,Kuwait,9586.43,2024
+Kuwait,Morocco,8081.42,2024
+Morocco,Pakistan,5002.38,2024
+Pakistan,Morocco,7625.06,2024
+Qatar,Brazil,6666.07,2024
+Brazil,Qatar,8012.87,2024
+Kuwait,Pakistan,1659.6,2024
+Pakistan,Kuwait,8328.48,2024

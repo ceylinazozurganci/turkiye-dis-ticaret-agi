@@ -1,0 +1,609 @@
+Source,Target,Weight_USD_M,Year
+Turkey,Germany,7987.78,2015
+Germany,Turkey,10529.62,2015
+Turkey,China,912.88,2015
+China,Turkey,3584.48,2015
+Turkey,Russia,10436.52,2015
+Russia,Turkey,15109.81,2015
+Turkey,USA,4951.01,2015
+USA,Turkey,16148.87,2015
+Turkey,Italy,10962.39,2015
+Italy,Turkey,3904.94,2015
+Turkey,UK,8536.3,2015
+UK,Turkey,6727.1,2015
+Turkey,Iraq,3137.44,2015
+Iraq,Turkey,14269.47,2015
+Turkey,France,14499.51,2015
+France,Turkey,4642.95,2015
+Turkey,Spain,1711.64,2015
+Spain,Turkey,11101.74,2015
+Turkey,UAE,11070.39,2015
+UAE,Turkey,5406.56,2015
+Turkey,Iran,10436.94,2015
+Iran,Turkey,9610.89,2015
+Turkey,Netherlands,1203.03,2015
+Netherlands,Turkey,2998.92,2015
+Turkey,Belgium,3211.03,2015
+Belgium,Turkey,17901.13,2015
+Turkey,Poland,8049.65,2015
+Poland,Turkey,10670.94,2015
+Turkey,Romania,11154.88,2015
+Romania,Turkey,10030.13,2015
+Turkey,Egypt,13740.73,2015
+Egypt,Turkey,14657.81,2015
+Turkey,Israel,6343.47,2015
+Israel,Turkey,6815.7,2015
+Turkey,Saudi Arabia,14316.71,2015
+Saudi Arabia,Turkey,6579.19,2015
+Turkey,Switzerland,13043.95,2015
+Switzerland,Turkey,15046.83,2015
+Turkey,India,8303.34,2015
+India,Turkey,16650.97,2015
+Turkey,South Korea,1908.62,2015
+South Korea,Turkey,2389.55,2015
+Turkey,Japan,10671.86,2015
+Japan,Turkey,16094.35,2015
+Turkey,Ukraine,2813.62,2015
+Ukraine,Turkey,5394.96,2015
+Turkey,Bulgaria,10251.13,2015
+Bulgaria,Turkey,3458.87,2015
+Turkey,Greece,10669.88,2015
+Greece,Turkey,9084.85,2015
+Turkey,Azerbaijan,10369.83,2015
+Azerbaijan,Turkey,9674.94,2015
+Turkey,Turkmenistan,1129.25,2015
+Turkmenistan,Turkey,4496.5,2015
+Turkey,Kazakhstan,8840.47,2015
+Kazakhstan,Turkey,2695.55,2015
+Turkey,Uzbekistan,7751.69,2015
+Uzbekistan,Turkey,3001.37,2015
+Turkey,Georgia,1265.72,2015
+Georgia,Turkey,3702.02,2015
+Turkey,Czechia,6914.34,2015
+Czechia,Turkey,15870.02,2015
+Turkey,Hungary,14264.33,2015
+Hungary,Turkey,8920.11,2015
+Turkey,Austria,7186.23,2015
+Austria,Turkey,11688.83,2015
+Turkey,Sweden,5206.82,2015
+Sweden,Turkey,2645.86,2015
+Turkey,Algeria,1240.96,2015
+Algeria,Turkey,11695.26,2015
+Turkey,Morocco,12277.86,2015
+Morocco,Turkey,12262.53,2015
+Turkey,Qatar,9950.63,2015
+Qatar,Turkey,7987.5,2015
+Turkey,Kuwait,10020.63,2015
+Kuwait,Turkey,4239.41,2015
+Turkey,Pakistan,10068.91,2015
+Pakistan,Turkey,9815.45,2015
+Turkey,Brazil,11353.55,2015
+Brazil,Turkey,2231.37,2015
+Germany,China,5529.21,2015
+China,Germany,5591.12,2015
+Germany,USA,1707.87,2015
+USA,Germany,2462.26,2015
+Germany,Iraq,732.82,2015
+Iraq,Germany,4897.01,2015
+Germany,Iran,3141.01,2015
+Iran,Germany,4458.16,2015
+Germany,Netherlands,5434.7,2015
+Netherlands,Germany,5587.06,2015
+Germany,Egypt,2379.6,2015
+Egypt,Germany,1263.76,2015
+Germany,Saudi Arabia,2876.33,2015
+Saudi Arabia,Germany,5895.18,2015
+Germany,Switzerland,5637.8,2015
+Switzerland,Germany,3169.4,2015
+Germany,India,5918.28,2015
+India,Germany,1983.87,2015
+Germany,South Korea,6108.85,2015
+South Korea,Germany,3218.2,2015
+Germany,Ukraine,6777.94,2015
+Ukraine,Germany,3012.31,2015
+Germany,Turkmenistan,3184.47,2015
+Turkmenistan,Germany,5296.49,2015
+Germany,Czechia,284.11,2015
+Czechia,Germany,4429.84,2015
+Germany,Sweden,973.92,2015
+Sweden,Germany,5043.61,2015
+Germany,Morocco,7062.5,2015
+Morocco,Germany,5592.79,2015
+Germany,Kuwait,4678.99,2015
+Kuwait,Germany,2941.53,2015
+Germany,Pakistan,2044.82,2015
+Pakistan,Germany,6265.51,2015
+China,Russia,2283.73,2015
+Russia,China,4689.3,2015
+China,USA,7941.47,2015
+USA,China,591.57,2015
+China,Italy,4185.57,2015
+Italy,China,7568.52,2015
+China,Belgium,6417.32,2015
+Belgium,China,7025.31,2015
+China,Saudi Arabia,6992.01,2015
+Saudi Arabia,China,7136.59,2015
+China,Switzerland,7336.09,2015
+Switzerland,China,3316.84,2015
+China,Greece,5934.3,2015
+Greece,China,7348.07,2015
+China,Czechia,1131.17,2015
+Czechia,China,5871.46,2015
+China,Austria,3679.08,2015
+Austria,China,1685.1,2015
+China,Morocco,4251.81,2015
+Morocco,China,3030.41,2015
+China,Brazil,6041.23,2015
+Brazil,China,4215.32,2015
+Russia,Iraq,3660.81,2015
+Iraq,Russia,5509.74,2015
+Russia,France,1283.46,2015
+France,Russia,4911.06,2015
+Russia,Spain,191.8,2015
+Spain,Russia,6419.33,2015
+Russia,UAE,930.92,2015
+UAE,Russia,3636.42,2015
+Russia,Saudi Arabia,7048.08,2015
+Saudi Arabia,Russia,1044.21,2015
+Russia,Switzerland,7241.63,2015
+Switzerland,Russia,4872.62,2015
+Russia,South Korea,1498.5,2015
+South Korea,Russia,2802.03,2015
+Russia,Bulgaria,7553.26,2015
+Bulgaria,Russia,3874.78,2015
+Russia,Czechia,3307.06,2015
+Czechia,Russia,4649.52,2015
+Russia,Hungary,6924.42,2015
+Hungary,Russia,6684.76,2015
+Russia,Austria,2364.7,2015
+Austria,Russia,2516.01,2015
+Russia,Sweden,4608.86,2015
+Sweden,Russia,2060.23,2015
+Russia,Kuwait,7174.94,2015
+Kuwait,Russia,6066.29,2015
+Russia,Pakistan,6619.63,2015
+Pakistan,Russia,594.86,2015
+Russia,Brazil,630.39,2015
+Brazil,Russia,1144.8,2015
+USA,Italy,2083.66,2015
+Italy,USA,4425.35,2015
+USA,Netherlands,2136.18,2015
+Netherlands,USA,5585.19,2015
+USA,Belgium,7981.43,2015
+Belgium,USA,6321.37,2015
+USA,Egypt,2645.61,2015
+Egypt,USA,3101.76,2015
+USA,Israel,3235.34,2015
+Israel,USA,1042.88,2015
+USA,South Korea,3607.55,2015
+South Korea,USA,5095.75,2015
+USA,Bulgaria,6581.79,2015
+Bulgaria,USA,2569.5,2015
+USA,Uzbekistan,7987.39,2015
+Uzbekistan,USA,3053.87,2015
+USA,Czechia,4224.37,2015
+Czechia,USA,5885.11,2015
+USA,Austria,7162.03,2015
+Austria,USA,4305.18,2015
+USA,Morocco,1916.05,2015
+Morocco,USA,1888.32,2015
+USA,Qatar,3874.52,2015
+Qatar,USA,5736.06,2015
+USA,Kuwait,4049.03,2015
+Kuwait,USA,1100.87,2015
+USA,Pakistan,1756.22,2015
+Pakistan,USA,3501.82,2015
+USA,Brazil,7518.1,2015
+Brazil,USA,4670.7,2015
+Italy,UK,5499.95,2015
+UK,Italy,3888.55,2015
+Italy,Belgium,175.91,2015
+Belgium,Italy,851.1,2015
+Italy,Poland,3324.18,2015
+Poland,Italy,6778.64,2015
+Italy,Egypt,366.53,2015
+Egypt,Italy,7938.57,2015
+Italy,Israel,7772.57,2015
+Israel,Italy,447.99,2015
+Italy,Saudi Arabia,5284.82,2015
+Saudi Arabia,Italy,3939.28,2015
+Italy,India,790.91,2015
+India,Italy,6851.53,2015
+Italy,Bulgaria,341.14,2015
+Bulgaria,Italy,7173.94,2015
+Italy,Azerbaijan,7306.01,2015
+Azerbaijan,Italy,6187.35,2015
+Italy,Czechia,108.25,2015
+Czechia,Italy,5593.61,2015
+Italy,Algeria,5724.84,2015
+Algeria,Italy,5192.75,2015
+Italy,Morocco,3771.98,2015
+Morocco,Italy,3236.63,2015
+UK,Spain,415.98,2015
+Spain,UK,5180.0,2015
+UK,UAE,6172.85,2015
+UAE,UK,625.5,2015
+UK,Romania,7503.0,2015
+Romania,UK,849.73,2015
+UK,Switzerland,3184.78,2015
+Switzerland,UK,2424.76,2015
+UK,Japan,228.59,2015
+Japan,UK,2130.78,2015
+UK,Greece,6725.87,2015
+Greece,UK,7332.91,2015
+UK,Kazakhstan,6045.95,2015
+Kazakhstan,UK,2749.34,2015
+UK,Uzbekistan,7078.4,2015
+Uzbekistan,UK,575.83,2015
+UK,Georgia,2815.12,2015
+Georgia,UK,2591.44,2015
+UK,Czechia,2789.41,2015
+Czechia,UK,7799.26,2015
+UK,Hungary,4674.44,2015
+Hungary,UK,7923.41,2015
+UK,Morocco,5853.02,2015
+Morocco,UK,5763.02,2015
+UK,Qatar,6081.87,2015
+Qatar,UK,694.0,2015
+Iraq,UAE,4792.61,2015
+UAE,Iraq,3106.67,2015
+Iraq,Iran,2423.99,2015
+Iran,Iraq,2026.21,2015
+Iraq,Netherlands,3376.16,2015
+Netherlands,Iraq,4973.35,2015
+Iraq,India,6208.53,2015
+India,Iraq,7266.83,2015
+Iraq,Greece,400.45,2015
+Greece,Iraq,1686.55,2015
+Iraq,Turkmenistan,235.38,2015
+Turkmenistan,Iraq,6126.59,2015
+Iraq,Sweden,7647.08,2015
+Sweden,Iraq,5023.17,2015
+Iraq,Kuwait,6446.03,2015
+Kuwait,Iraq,4835.48,2015
+France,Belgium,2448.45,2015
+Belgium,France,4805.32,2015
+France,Egypt,4789.79,2015
+Egypt,France,6637.29,2015
+France,South Korea,1740.84,2015
+South Korea,France,7765.19,2015
+France,Kazakhstan,2135.55,2015
+Kazakhstan,France,493.85,2015
+France,Austria,155.67,2015
+Austria,France,5440.5,2015
+France,Sweden,2051.45,2015
+Sweden,France,884.93,2015
+France,Kuwait,240.16,2015
+Kuwait,France,227.0,2015
+France,Brazil,6897.62,2015
+Brazil,France,6946.41,2015
+Spain,Belgium,6085.37,2015
+Belgium,Spain,3232.52,2015
+Spain,Switzerland,5580.4,2015
+Switzerland,Spain,6189.35,2015
+Spain,South Korea,2109.56,2015
+South Korea,Spain,7837.94,2015
+Spain,Ukraine,182.0,2015
+Ukraine,Spain,1592.55,2015
+Spain,Georgia,6737.78,2015
+Georgia,Spain,6643.98,2015
+Spain,Hungary,1956.68,2015
+Hungary,Spain,2449.38,2015
+Spain,Sweden,2200.06,2015
+Sweden,Spain,3848.54,2015
+Spain,Qatar,3068.83,2015
+Qatar,Spain,4994.46,2015
+Spain,Kuwait,7346.38,2015
+Kuwait,Spain,2132.0,2015
+Spain,Brazil,4020.91,2015
+Brazil,Spain,7816.93,2015
+UAE,Iran,3461.83,2015
+Iran,UAE,3163.67,2015
+UAE,Egypt,427.64,2015
+Egypt,UAE,1107.15,2015
+UAE,Saudi Arabia,7941.64,2015
+Saudi Arabia,UAE,4022.05,2015
+UAE,Switzerland,5632.0,2015
+Switzerland,UAE,1662.31,2015
+UAE,India,816.39,2015
+India,UAE,3421.12,2015
+UAE,South Korea,5293.47,2015
+South Korea,UAE,7185.91,2015
+UAE,Turkmenistan,6597.32,2015
+Turkmenistan,UAE,3678.86,2015
+UAE,Hungary,6139.35,2015
+Hungary,UAE,2820.31,2015
+UAE,Algeria,4272.77,2015
+Algeria,UAE,7868.43,2015
+UAE,Morocco,3251.21,2015
+Morocco,UAE,2841.0,2015
+UAE,Brazil,6973.24,2015
+Brazil,UAE,6693.66,2015
+Iran,Poland,3037.11,2015
+Poland,Iran,2212.58,2015
+Iran,Egypt,7776.13,2015
+Egypt,Iran,851.13,2015
+Iran,Israel,6233.34,2015
+Israel,Iran,4043.97,2015
+Iran,Saudi Arabia,4287.57,2015
+Saudi Arabia,Iran,3775.21,2015
+Iran,Japan,3152.31,2015
+Japan,Iran,1322.74,2015
+Iran,Bulgaria,3413.04,2015
+Bulgaria,Iran,5244.37,2015
+Iran,Algeria,6297.02,2015
+Algeria,Iran,6564.84,2015
+Netherlands,Greece,5103.97,2015
+Greece,Netherlands,3690.94,2015
+Netherlands,Azerbaijan,3147.53,2015
+Azerbaijan,Netherlands,6202.05,2015
+Netherlands,Turkmenistan,1687.2,2015
+Turkmenistan,Netherlands,5709.6,2015
+Netherlands,Kazakhstan,5051.7,2015
+Kazakhstan,Netherlands,7591.83,2015
+Netherlands,Georgia,2284.3,2015
+Georgia,Netherlands,1690.95,2015
+Netherlands,Brazil,2432.41,2015
+Brazil,Netherlands,7606.18,2015
+Belgium,Poland,3584.97,2015
+Poland,Belgium,3881.76,2015
+Belgium,Romania,6720.45,2015
+Romania,Belgium,5374.84,2015
+Belgium,Israel,7069.38,2015
+Israel,Belgium,2976.33,2015
+Belgium,Switzerland,558.47,2015
+Switzerland,Belgium,7816.54,2015
+Belgium,India,284.31,2015
+India,Belgium,4818.5,2015
+Belgium,Japan,7017.06,2015
+Japan,Belgium,5389.35,2015
+Belgium,Azerbaijan,3252.22,2015
+Azerbaijan,Belgium,5006.4,2015
+Belgium,Czechia,1672.83,2015
+Czechia,Belgium,2622.12,2015
+Belgium,Hungary,4931.9,2015
+Hungary,Belgium,3588.04,2015
+Belgium,Austria,6395.26,2015
+Austria,Belgium,2929.64,2015
+Belgium,Brazil,7661.48,2015
+Brazil,Belgium,2543.94,2015
+Poland,Israel,5994.17,2015
+Israel,Poland,545.72,2015
+Poland,South Korea,972.96,2015
+South Korea,Poland,453.14,2015
+Poland,Ukraine,6980.98,2015
+Ukraine,Poland,1393.78,2015
+Poland,Greece,1739.58,2015
+Greece,Poland,1359.08,2015
+Poland,Azerbaijan,1817.52,2015
+Azerbaijan,Poland,2166.71,2015
+Poland,Kazakhstan,3538.93,2015
+Kazakhstan,Poland,3781.86,2015
+Poland,Georgia,1078.12,2015
+Georgia,Poland,6409.42,2015
+Poland,Czechia,7464.67,2015
+Czechia,Poland,4236.49,2015
+Poland,Austria,4958.0,2015
+Austria,Poland,1265.22,2015
+Poland,Qatar,2674.94,2015
+Qatar,Poland,631.81,2015
+Poland,Kuwait,276.12,2015
+Kuwait,Poland,532.62,2015
+Romania,Egypt,7118.7,2015
+Egypt,Romania,1710.44,2015
+Romania,Israel,3174.48,2015
+Israel,Romania,4288.11,2015
+Romania,India,6964.61,2015
+India,Romania,5442.17,2015
+Romania,South Korea,4994.3,2015
+South Korea,Romania,2600.42,2015
+Romania,Bulgaria,786.98,2015
+Bulgaria,Romania,925.51,2015
+Romania,Greece,1669.32,2015
+Greece,Romania,107.65,2015
+Romania,Kazakhstan,3656.33,2015
+Kazakhstan,Romania,7774.54,2015
+Romania,Hungary,544.67,2015
+Hungary,Romania,5172.38,2015
+Romania,Sweden,5696.63,2015
+Sweden,Romania,7671.01,2015
+Egypt,Israel,2036.23,2015
+Israel,Egypt,5067.28,2015
+Egypt,South Korea,251.75,2015
+South Korea,Egypt,4521.53,2015
+Egypt,Czechia,7699.89,2015
+Czechia,Egypt,6961.93,2015
+Egypt,Austria,1217.06,2015
+Austria,Egypt,7646.98,2015
+Egypt,Morocco,5544.16,2015
+Morocco,Egypt,3972.65,2015
+Egypt,Brazil,6008.49,2015
+Brazil,Egypt,294.18,2015
+Israel,India,277.54,2015
+India,Israel,2155.13,2015
+Israel,Japan,7928.43,2015
+Japan,Israel,4834.75,2015
+Israel,Czechia,949.04,2015
+Czechia,Israel,7459.76,2015
+Israel,Austria,4498.28,2015
+Austria,Israel,3673.75,2015
+Saudi Arabia,South Korea,1711.54,2015
+South Korea,Saudi Arabia,4017.74,2015
+Saudi Arabia,Uzbekistan,3251.1,2015
+Uzbekistan,Saudi Arabia,3873.33,2015
+Saudi Arabia,Hungary,7658.49,2015
+Hungary,Saudi Arabia,3596.3,2015
+Saudi Arabia,Kuwait,1190.85,2015
+Kuwait,Saudi Arabia,6833.02,2015
+Switzerland,Ukraine,6521.8,2015
+Ukraine,Switzerland,6766.61,2015
+Switzerland,Greece,1237.97,2015
+Greece,Switzerland,3404.23,2015
+Switzerland,Uzbekistan,1983.53,2015
+Uzbekistan,Switzerland,6165.48,2015
+Switzerland,Georgia,3300.05,2015
+Georgia,Switzerland,2372.74,2015
+Switzerland,Czechia,300.19,2015
+Czechia,Switzerland,4442.03,2015
+Switzerland,Sweden,3589.35,2015
+Sweden,Switzerland,2040.68,2015
+Switzerland,Algeria,4135.8,2015
+Algeria,Switzerland,6656.25,2015
+Switzerland,Kuwait,2657.88,2015
+Kuwait,Switzerland,7016.17,2015
+India,South Korea,4225.81,2015
+South Korea,India,2678.8,2015
+India,Japan,7182.45,2015
+Japan,India,922.43,2015
+India,Bulgaria,1638.55,2015
+Bulgaria,India,3642.42,2015
+India,Azerbaijan,6505.25,2015
+Azerbaijan,India,7028.1,2015
+India,Kazakhstan,7906.56,2015
+Kazakhstan,India,3991.61,2015
+India,Georgia,7119.06,2015
+Georgia,India,7968.3,2015
+India,Czechia,1964.39,2015
+Czechia,India,6963.22,2015
+India,Sweden,7499.59,2015
+Sweden,India,7115.98,2015
+India,Morocco,5461.43,2015
+Morocco,India,6385.17,2015
+South Korea,Japan,3654.57,2015
+Japan,South Korea,4003.79,2015
+South Korea,Ukraine,6885.6,2015
+Ukraine,South Korea,5889.41,2015
+South Korea,Bulgaria,5924.26,2015
+Bulgaria,South Korea,4482.13,2015
+South Korea,Uzbekistan,3485.67,2015
+Uzbekistan,South Korea,6980.14,2015
+South Korea,Hungary,7884.73,2015
+Hungary,South Korea,7306.73,2015
+South Korea,Austria,7764.33,2015
+Austria,South Korea,593.59,2015
+South Korea,Morocco,3712.45,2015
+Morocco,South Korea,6206.36,2015
+South Korea,Qatar,1131.27,2015
+Qatar,South Korea,4523.82,2015
+South Korea,Pakistan,5101.39,2015
+Pakistan,South Korea,634.68,2015
+Japan,Ukraine,1150.83,2015
+Ukraine,Japan,5192.41,2015
+Japan,Kazakhstan,2238.62,2015
+Kazakhstan,Japan,2690.93,2015
+Japan,Czechia,4516.3,2015
+Czechia,Japan,2889.63,2015
+Japan,Algeria,1660.47,2015
+Algeria,Japan,4913.99,2015
+Japan,Qatar,3070.78,2015
+Qatar,Japan,1277.68,2015
+Ukraine,Bulgaria,6988.19,2015
+Bulgaria,Ukraine,995.54,2015
+Ukraine,Azerbaijan,998.87,2015
+Azerbaijan,Ukraine,807.73,2015
+Ukraine,Turkmenistan,5259.59,2015
+Turkmenistan,Ukraine,6406.31,2015
+Ukraine,Hungary,4600.95,2015
+Hungary,Ukraine,6424.57,2015
+Ukraine,Qatar,902.51,2015
+Qatar,Ukraine,2378.71,2015
+Ukraine,Kuwait,3155.59,2015
+Kuwait,Ukraine,4669.34,2015
+Bulgaria,Greece,7252.2,2015
+Greece,Bulgaria,2575.1,2015
+Bulgaria,Turkmenistan,6174.3,2015
+Turkmenistan,Bulgaria,5484.58,2015
+Bulgaria,Czechia,4839.9,2015
+Czechia,Bulgaria,4150.56,2015
+Bulgaria,Hungary,2816.42,2015
+Hungary,Bulgaria,7701.67,2015
+Bulgaria,Sweden,5821.36,2015
+Sweden,Bulgaria,2083.71,2015
+Bulgaria,Algeria,1694.1,2015
+Algeria,Bulgaria,3817.37,2015
+Bulgaria,Pakistan,4601.4,2015
+Pakistan,Bulgaria,6891.84,2015
+Greece,Turkmenistan,4886.76,2015
+Turkmenistan,Greece,811.76,2015
+Greece,Sweden,5815.75,2015
+Sweden,Greece,5496.25,2015
+Greece,Algeria,1665.47,2015
+Algeria,Greece,2951.0,2015
+Greece,Qatar,4372.69,2015
+Qatar,Greece,5159.76,2015
+Azerbaijan,Turkmenistan,7558.6,2015
+Turkmenistan,Azerbaijan,2775.61,2015
+Azerbaijan,Kazakhstan,5251.98,2015
+Kazakhstan,Azerbaijan,4727.98,2015
+Azerbaijan,Uzbekistan,4379.02,2015
+Uzbekistan,Azerbaijan,738.27,2015
+Azerbaijan,Czechia,792.74,2015
+Czechia,Azerbaijan,136.24,2015
+Azerbaijan,Algeria,4770.12,2015
+Algeria,Azerbaijan,5358.94,2015
+Azerbaijan,Morocco,4312.53,2015
+Morocco,Azerbaijan,4543.62,2015
+Turkmenistan,Czechia,7564.87,2015
+Czechia,Turkmenistan,7032.27,2015
+Turkmenistan,Hungary,1287.33,2015
+Hungary,Turkmenistan,2265.43,2015
+Turkmenistan,Algeria,6277.2,2015
+Algeria,Turkmenistan,1583.4,2015
+Turkmenistan,Morocco,5730.42,2015
+Morocco,Turkmenistan,500.26,2015
+Turkmenistan,Qatar,5745.29,2015
+Qatar,Turkmenistan,5656.25,2015
+Turkmenistan,Brazil,2464.34,2015
+Brazil,Turkmenistan,2417.93,2015
+Kazakhstan,Georgia,2675.82,2015
+Georgia,Kazakhstan,5812.67,2015
+Kazakhstan,Pakistan,1081.9,2015
+Pakistan,Kazakhstan,643.04,2015
+Uzbekistan,Georgia,2138.84,2015
+Georgia,Uzbekistan,1027.93,2015
+Uzbekistan,Hungary,679.86,2015
+Hungary,Uzbekistan,2369.42,2015
+Uzbekistan,Austria,3645.57,2015
+Austria,Uzbekistan,7574.09,2015
+Uzbekistan,Sweden,1654.6,2015
+Sweden,Uzbekistan,4647.42,2015
+Uzbekistan,Morocco,3992.38,2015
+Morocco,Uzbekistan,7778.55,2015
+Georgia,Austria,2021.47,2015
+Austria,Georgia,2069.56,2015
+Georgia,Sweden,1106.82,2015
+Sweden,Georgia,1864.29,2015
+Czechia,Morocco,799.08,2015
+Morocco,Czechia,6721.23,2015
+Hungary,Algeria,1946.39,2015
+Algeria,Hungary,3459.42,2015
+Hungary,Kuwait,113.35,2015
+Kuwait,Hungary,1934.9,2015
+Hungary,Brazil,1314.46,2015
+Brazil,Hungary,3916.5,2015
+Austria,Sweden,4174.69,2015
+Sweden,Austria,5202.42,2015
+Austria,Algeria,3096.38,2015
+Algeria,Austria,884.34,2015
+Austria,Morocco,1016.52,2015
+Morocco,Austria,2371.15,2015
+Austria,Qatar,6613.36,2015
+Qatar,Austria,2571.01,2015
+Austria,Kuwait,651.12,2015
+Kuwait,Austria,2560.17,2015
+Austria,Pakistan,6730.14,2015
+Pakistan,Austria,3879.04,2015
+Sweden,Algeria,730.04,2015
+Algeria,Sweden,6811.86,2015
+Sweden,Qatar,5596.74,2015
+Qatar,Sweden,381.63,2015
+Sweden,Kuwait,3292.69,2015
+Kuwait,Sweden,3000.93,2015
+Algeria,Kuwait,2590.72,2015
+Kuwait,Algeria,3463.29,2015
+Algeria,Brazil,3090.44,2015
+Brazil,Algeria,7014.82,2015
+Morocco,Kuwait,1229.48,2015
+Kuwait,Morocco,1391.84,2015
+Qatar,Kuwait,6058.84,2015
+Kuwait,Qatar,1854.35,2015
